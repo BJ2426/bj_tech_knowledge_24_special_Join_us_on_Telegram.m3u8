@@ -1,0 +1,7 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1080p" tvg-logo="" group-title="Pahtan 2023 ",1080p
+https://assets-1.entertainvideo.com/assets/media/48455177b997ef3e30fb81fa59985ca3/dash/4c60723a854f6d16beeb7737e61e1475.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="480p" tvg-logo="" group-title="Pahtan 2023 ",480p
+https://assets-1.entertainvideo.com/assets/media/b75ae69072278e18f7e0a0ccd76b0430/dash/69359cd0f8abc63df836d58654f81162.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="720p" tvg-logo="" group-title="Pahtan 2023 ",720p
+https://assets-1.entertainvideo.com/assets/media/9ed09cf7c19f4f3510cf715e591354b8/dash/be49f434a51f135439b2d5b9f3b42c3f.mpd
