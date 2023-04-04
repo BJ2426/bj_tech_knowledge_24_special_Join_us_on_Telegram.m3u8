@@ -1,0 +1,17 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Join us" tvg-logo="" group-title="This playlist is FREE Dont Buy",Join us
+https://jiolivestreaming.akamaized.net/bpk-tv/M2_IPL23_Hin_UHD_IDC_BTS/Fallback/index.m3u8?hdnts=st=1680422830~exp=1680509230~acl=/*~hmac=cc92b88de6a40b4f1db30aafa13260b55b520a1703404727bd6be397067b7cd5
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Join us on Telegram 👉 @bjtechknowledge2" tvg-logo="" group-title="Join us on Telegram @bjtechknowledge2",Join us on Telegram 👉 @bjtechknowledge2
+https://jiolivestreaming.akamaized.net/bpk-tv/M2_IPL23_Hin_UHD_IDC_BTS/Fallback/index.m3u8?hdnts=st=1680422830~exp=1680509230~acl=/*~hmac=cc92b88de6a40b4f1db30aafa13260b55b520a1703404727bd6be397067b7cd5
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Join us on Telegram 👉 bjtechknowledge2" tvg-logo="" group-title="LIVE EVENTS ( CRICKET LIVE)",Join us on Telegram 👉 bjtechknowledge2
+https://jiolivestreaming.akamaized.net/bpk-tv/M2_IPL23_Hin_UHD_IDC_BTS/Fallback/index.m3u8?hdnts=st=1680422830~exp=1680509230~acl=/*~hmac=cc92b88de6a40b4f1db30aafa13260b55b520a1703404727bd6be397067b7cd5
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIVE LINK 1" tvg-logo="" group-title="LIVE EVENTS ( CRICKET LIVE)",4K Hindi
+https://prod-sports-hin-gm.jiocinema.com/hls/live/2099004/hd_akamai_androidmob_avc_hin_ipl07/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIVE LINK 2" tvg-logo="" group-title="LIVE EVENTS ( CRICKET LIVE)",4K English
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2098999/hd_akamai_androidmob_avc_eng_ipl07/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIVE LINK 1" tvg-logo="" group-title="LIVE EVENTS ( CRICKET LIVE)",4k Bhojpuri
+https://prod-sports-hin-gm.jiocinema.com/hls/live/2099004/hd_akamai_androidmob_avc_hin_ipl07/master_720p.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIVE LINK 2" tvg-logo="" group-title="LIVE EVENTS ( CRICKET LIVE)",TAMIL HD
+https://prod-sports-hin-gm.jiocinema.com/hls/live/2099004/hd_akamai_androidmob_avc_hin_ipl07/master_720p.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIVE LINK 2" tvg-logo="" group-title="LIVE EVENTS ( CRICKET LIVE)",TELUGU HD
+https://prod-sports-hin-gm.jiocinema.com/hls/live/2099004/hd_akamai_androidmob_avc_hin_ipl07/master_720p.m3u8
