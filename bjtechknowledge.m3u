@@ -1,0 +1,1508 @@
+#EXTM3U x-tvg-url="https://meralund.com//epg.xml.gz"
+# Collected Exclusivly By SabbirIPTV
+# Visit (https://github.com/sabbiriptv) For More
+# Server Credit Goes To MadPlay (Thanks ♥)
+# Completly RE-Scraped + EPG Added
+
+#EXTINF:-1 tvg-id="0" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_English.png" group-title="Sports - SabbirIPTV",Jio Cricket English HD
+https://madplay.live/jiotv/app/live/1918/null/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment - SabbirIPTV",Colors HD
+https://madplay.live/jiotv/app/live/144/null/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment - SabbirIPTV",SET HD
+https://madplay.live/jiotv/app/live/291/null/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Entertainment - SabbirIPTV",Zee TV HD
+https://madplay.live/jiotv/app/live/167/null/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies - SabbirIPTV",Sony Max HD
+https://madplay.live/jiotv/app/live/476/null/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies - SabbirIPTV",Zee Cinema HD
+https://madplay.live/jiotv/app/live/165/null/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports - SabbirIPTV",Sony Ten 5 HD
+https://madplay.live/jiotv/app/live/155/null/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_NOW.png" group-title="News - SabbirIPTV",Times NOW
+https://madplay.live/jiotv/app/live/383/null/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_Navbharat.png" group-title="News - SabbirIPTV",Times Now Navbharat
+https://madplay.live/jiotv/app/live/1906/null/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports - SabbirIPTV",Sony Ten 1 HD
+https://madplay.live/jiotv/app/live/162/null/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="News - SabbirIPTV",ABP News India
+https://madplay.live/jiotv/app/live/177/null/index.m3u8
+#EXTINF:-1 tvg-id="11" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports - SabbirIPTV",Sony Ten 2 HD
+https://madplay.live/jiotv/app/live/891/null/index.m3u8
+#EXTINF:-1 tvg-id="12" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png" group-title="News - SabbirIPTV",CNN NEWS 18
+https://madplay.live/jiotv/app/live/492/null/index.m3u8
+#EXTINF:-1 tvg-id="13" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Music - SabbirIPTV",MTV HD Plus
+https://madplay.live/jiotv/app/live/1145/null/index.m3u8
+#EXTINF:-1 tvg-id="14" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Music - SabbirIPTV",MTV Beats HD
+https://madplay.live/jiotv/app/live/753/null/index.m3u8
+#EXTINF:-1 tvg-id="15" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png" group-title="News - SabbirIPTV",Republic TV
+https://madplay.live/jiotv/app/live/858/null/index.m3u8
+#EXTINF:-1 tvg-id="16" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png" group-title="Music - SabbirIPTV",Mastiii
+https://madplay.live/jiotv/app/live/584/null/index.m3u8
+#EXTINF:-1 tvg-id="17" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Majha.png" group-title="News - SabbirIPTV",ABP Majha
+https://madplay.live/jiotv/app/live/612/null/index.m3u8
+#EXTINF:-1 tvg-id="18" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Kids - SabbirIPTV",Nick Hindi
+https://madplay.live/jiotv/app/live/545/null/index.m3u8
+#EXTINF:-1 tvg-id="19" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Karnataka.png" group-title="News - SabbirIPTV",TV9 Karnataka
+https://madplay.live/jiotv/app/live/619/null/index.m3u8
+#EXTINF:-1 tvg-id="20" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kids - SabbirIPTV",Pogo Hindi
+https://madplay.live/jiotv/app/live/559/null/index.m3u8
+#EXTINF:-1 tvg-id="21" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png" group-title="News - SabbirIPTV",Polimer News
+https://madplay.live/jiotv/app/live/636/null/index.m3u8
+#EXTINF:-1 tvg-id="22" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Telugu_News.png" group-title="News - SabbirIPTV",TV9 Telugu News
+https://madplay.live/jiotv/app/live/618/null/index.m3u8
+#EXTINF:-1 tvg-id="23" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids - SabbirIPTV",Cartoon Network Hindi
+https://madplay.live/jiotv/app/live/816/null/index.m3u8
+#EXTINF:-1 tvg-id="24" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Infotainment - SabbirIPTV",Discovery HD World
+https://madplay.live/jiotv/app/live/463/null/index.m3u8
+#EXTINF:-1 tvg-id="25" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ananda.png" group-title="News - SabbirIPTV",ABP Ananda
+https://madplay.live/jiotv/app/live/672/null/index.m3u8
+#EXTINF:-1 tvg-id="26" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment - SabbirIPTV",Sony BBC Earth HD
+https://madplay.live/jiotv/app/live/821/null/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" group-title="Infotainment - SabbirIPTV",History TV18 HD
+https://madplay.live/jiotv/app/live/146/null/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_HD_World.png" group-title="Lifestyle - SabbirIPTV",TLC HD
+https://madplay.live/jiotv/app/live/479/null/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png" group-title="Lifestyle - SabbirIPTV",Food Food
+https://madplay.live/jiotv/app/live/561/null/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Good_Times.png" group-title="Lifestyle - SabbirIPTV",GOOD TiMES
+https://madplay.live/jiotv/app/live/560/null/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png" group-title="Business - SabbirIPTV",Zee Business
+https://madplay.live/jiotv/app/live/657/null/index.m3u8
+#EXTINF:-1 tvg-id="32" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png" group-title="Business - SabbirIPTV",CNBC Tv18 Prime HD
+https://madplay.live/jiotv/app/live/143/null/index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Profit.png" group-title="Business - SabbirIPTV",NDTV Profit
+https://madplay.live/jiotv/app/live/259/null/index.m3u8
+#EXTINF:-1 tvg-id="34" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Awaaz.png" group-title="Business - SabbirIPTV",CNBC Awaaz
+https://madplay.live/jiotv/app/live/190/null/index.m3u8
+#EXTINF:-1 tvg-id="35" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png" group-title="Devotional - SabbirIPTV",Aastha
+https://madplay.live/jiotv/app/live/175/null/index.m3u8
+#EXTINF:-1 tvg-id="36" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Bhajan.png" group-title="Devotional - SabbirIPTV",Aastha Bhajan
+https://madplay.live/jiotv/app/live/594/null/index.m3u8
+#EXTINF:-1 tvg-id="37" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sanskar.png" group-title="Devotional - SabbirIPTV",Sanskar
+https://madplay.live/jiotv/app/live/288/null/index.m3u8
+#EXTINF:-1 tvg-id="38" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_Science.png" group-title="Educational - SabbirIPTV",India Science
+https://madplay.live/jiotv/app/live/1433/null/index.m3u8
+#EXTINF:-1 tvg-id="39" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Entertainment - SabbirIPTV",Sony SAB
+https://madplay.live/jiotv/app/live/154/null/index.m3u8
+#EXTINF:-1 tvg-id="40" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment - SabbirIPTV",And TV HD
+https://madplay.live/jiotv/app/live/472/null/index.m3u8
+#EXTINF:-1 tvg-id="41" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" group-title="Entertainment - SabbirIPTV",Rishtey
+https://madplay.live/jiotv/app/live/279/null/index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png" group-title="Entertainment - SabbirIPTV",Zee Anmol
+https://madplay.live/jiotv/app/live/473/null/index.m3u8
+#EXTINF:-1 tvg-id="43" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Entertainment - SabbirIPTV",Sony Pal
+https://madplay.live/jiotv/app/live/474/null/index.m3u8
+#EXTINF:-1 tvg-id="44" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Entertainment - SabbirIPTV",Sony SAB HD
+https://madplay.live/jiotv/app/live/471/null/index.m3u8
+#EXTINF:-1 tvg-id="45" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png" group-title="Entertainment - SabbirIPTV",Zee Marathi
+https://madplay.live/jiotv/app/live/445/null/index.m3u8
+#EXTINF:-1 tvg-id="46" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="Entertainment - SabbirIPTV",Colors Marathi HD
+https://madplay.live/jiotv/app/live/755/null/index.m3u8
+#EXTINF:-1 tvg-id="47" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png" group-title="Entertainment - SabbirIPTV",Colors Kannada HD
+https://madplay.live/jiotv/app/live/757/null/index.m3u8
+#EXTINF:-1 tvg-id="48" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kannada.png" group-title="Entertainment - SabbirIPTV",Zee Kannada
+https://madplay.live/jiotv/app/live/689/null/index.m3u8
+#EXTINF:-1 tvg-id="49" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png" group-title="Entertainment - SabbirIPTV",Comedy Central HD
+https://madplay.live/jiotv/app/live/1157/null/index.m3u8
+#EXTINF:-1 tvg-id="50" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Entertainment - SabbirIPTV",Zee Telugu
+https://madplay.live/jiotv/app/live/638/null/index.m3u8
+#EXTINF:-1 tvg-id="51" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="Entertainment - SabbirIPTV",Zee Tamil
+https://madplay.live/jiotv/app/live/628/null/index.m3u8
+#EXTINF:-1 tvg-id="52" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati.png" group-title="Entertainment - SabbirIPTV",Colors Gujarati
+https://madplay.live/jiotv/app/live/196/null/index.m3u8
+#EXTINF:-1 tvg-id="53" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png" group-title="Entertainment - SabbirIPTV",Zee Bangla
+https://madplay.live/jiotv/app/live/625/null/index.m3u8
+#EXTINF:-1 tvg-id="54" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" group-title="Entertainment - SabbirIPTV",Colors Bengali HD
+https://madplay.live/jiotv/app/live/756/null/index.m3u8
+#EXTINF:-1 tvg-id="55" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Epic_HD.png" group-title="Entertainment - SabbirIPTV",Epic
+https://madplay.live/jiotv/app/live/481/null/index.m3u8
+#EXTINF:-1 tvg-id="56" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="Entertainment - SabbirIPTV",Colors Infinity HD
+https://madplay.live/jiotv/app/live/1158/null/index.m3u8
+#EXTINF:-1 tvg-id="57" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Yuva.png" group-title="Entertainment - SabbirIPTV",Zee Yuva
+https://madplay.live/jiotv/app/live/414/null/index.m3u8
+#EXTINF:-1 tvg-id="58" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi.png" group-title="Entertainment - SabbirIPTV",PTC Punjabi
+https://madplay.live/jiotv/app/live/1171/null/index.m3u8
+#EXTINF:-1 tvg-id="59" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ID.png" group-title="Entertainment - SabbirIPTV",Investigation Discovery
+https://madplay.live/jiotv/app/live/527/null/index.m3u8
+#EXTINF:-1 tvg-id="60" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_India.png" group-title="Entertainment - SabbirIPTV",DD India
+https://madplay.live/jiotv/app/live/528/null/index.m3u8
+#EXTINF:-1 tvg-id="61" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="Entertainment - SabbirIPTV",DD National
+https://madplay.live/jiotv/app/live/202/null/index.m3u8
+#EXTINF:-1 tvg-id="62" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png" group-title="Entertainment - SabbirIPTV",Dabangg
+https://madplay.live/jiotv/app/live/532/null/index.m3u8
+#EXTINF:-1 tvg-id="63" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="Entertainment - SabbirIPTV",Colors Tamil HD
+https://madplay.live/jiotv/app/live/429/null/index.m3u8
+#EXTINF:-1 tvg-id="64" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png" group-title="Entertainment - SabbirIPTV",Sun TV HD
+https://madplay.live/jiotv/app/live/896/null/index.m3u8
+#EXTINF:-1 tvg-id="65" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Madhya_Pradesh.png" group-title="Entertainment - SabbirIPTV",DD Madhya Pradesh
+https://madplay.live/jiotv/app/live/536/null/index.m3u8
+#EXTINF:-1 tvg-id="66" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajasthan_Jaipur.png" group-title="Entertainment - SabbirIPTV",DD Rajasthan (Jaipur)
+https://madplay.live/jiotv/app/live/538/null/index.m3u8
+#EXTINF:-1 tvg-id="67" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="Movies - SabbirIPTV",Colors Cineplex
+https://madplay.live/jiotv/app/live/482/null/index.m3u8
+#EXTINF:-1 tvg-id="68" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies - SabbirIPTV",Sony Pix HD
+https://madplay.live/jiotv/app/live/762/null/index.m3u8
+#EXTINF:-1 tvg-id="69" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="Movies - SabbirIPTV",Sony Max SD
+https://madplay.live/jiotv/app/live/289/null/index.m3u8
+#EXTINF:-1 tvg-id="70" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Movies - SabbirIPTV",Sony MAX2
+https://madplay.live/jiotv/app/live/483/null/index.m3u8
+#EXTINF:-1 tvg-id="71" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Movies - SabbirIPTV",And Pictures HD
+https://madplay.live/jiotv/app/live/185/null/index.m3u8
+#EXTINF:-1 tvg-id="72" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png" group-title="Movies - SabbirIPTV",Zee Cinema
+https://madplay.live/jiotv/app/live/484/null/index.m3u8
+#EXTINF:-1 tvg-id="73" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="Movies - SabbirIPTV",B4U Movies
+https://madplay.live/jiotv/app/live/182/null/index.m3u8
+#EXTINF:-1 tvg-id="74" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cinema.png" group-title="Movies - SabbirIPTV",Jio Cinema
+https://madplay.live/jiotv/app/live/1074/null/index.m3u8
+#EXTINF:-1 tvg-id="75" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="Movies - SabbirIPTV",Zee Bollywood
+https://madplay.live/jiotv/app/live/487/null/index.m3u8
+#EXTINF:-1 tvg-id="76" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhojpuri_Cinema.png" group-title="Movies - SabbirIPTV",Bhojpuri Cinema
+https://madplay.live/jiotv/app/live/486/null/index.m3u8
+#EXTINF:-1 tvg-id="77" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png" group-title="Movies - SabbirIPTV",KTV HD
+https://madplay.live/jiotv/app/live/894/null/index.m3u8
+#EXTINF:-1 tvg-id="78" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Enterr_10.png" group-title="Entertainment - SabbirIPTV",Enterr 10
+https://madplay.live/jiotv/app/live/485/null/index.m3u8
+#EXTINF:-1 tvg-id="79" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="Movies - SabbirIPTV",Zee Action
+https://madplay.live/jiotv/app/live/488/null/index.m3u8
+#EXTINF:-1 tvg-id="80" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Udaya_Movies.png" group-title="Movies - SabbirIPTV",Udaya Movies
+https://madplay.live/jiotv/app/live/678/null/index.m3u8
+#EXTINF:-1 tvg-id="81" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="Movies - SabbirIPTV",Zee Cinemalu
+https://madplay.live/jiotv/app/live/413/null/index.m3u8
+#EXTINF:-1 tvg-id="82" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png" group-title="Movies - SabbirIPTV",Gemini Movies HD
+https://madplay.live/jiotv/app/live/899/null/index.m3u8
+#EXTINF:-1 tvg-id="83" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" group-title="Movies - SabbirIPTV",Zee Anmol Cinema
+https://madplay.live/jiotv/app/live/415/null/index.m3u8
+#EXTINF:-1 tvg-id="84" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="News - SabbirIPTV",News 18 India
+https://madplay.live/jiotv/app/live/231/null/index.m3u8
+#EXTINF:-1 tvg-id="85" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png" group-title="News - SabbirIPTV",India TV
+https://madplay.live/jiotv/app/live/235/null/index.m3u8
+#EXTINF:-1 tvg-id="86" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png" group-title="News - SabbirIPTV",NDTV India
+https://madplay.live/jiotv/app/live/258/null/index.m3u8
+#EXTINF:-1 tvg-id="87" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png" group-title="News - SabbirIPTV",Zee News
+https://madplay.live/jiotv/app/live/504/null/index.m3u8
+#EXTINF:-1 tvg-id="88" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_HD.png" group-title="News - SabbirIPTV",Times Now World
+https://madplay.live/jiotv/app/live/876/null/index.m3u8
+#EXTINF:-1 tvg-id="89" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" group-title="News - SabbirIPTV",NDTV 24x7
+https://madplay.live/jiotv/app/live/255/null/index.m3u8
+#EXTINF:-1 tvg-id="90" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png" group-title="Entertainment - SabbirIPTV",ETV Telugu
+https://madplay.live/jiotv/app/live/629/null/index.m3u8
+#EXTINF:-1 tvg-id="91" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Public_TV.png" group-title="News - SabbirIPTV",Public TV
+https://madplay.live/jiotv/app/live/778/null/index.m3u8
+#EXTINF:-1 tvg-id="92" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/24_Ghanta_TV.png" group-title="News - SabbirIPTV",24 Ghanta TV
+https://madplay.live/jiotv/app/live/464/null/index.m3u8
+#EXTINF:-1 tvg-id="93" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sakshi_tv.png" group-title="News - SabbirIPTV",Sakshi tv
+https://madplay.live/jiotv/app/live/632/null/index.m3u8
+#EXTINF:-1 tvg-id="94" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna_News.png" group-title="News - SabbirIPTV",Suvarna News
+https://madplay.live/jiotv/app/live/626/null/index.m3u8
+#EXTINF:-1 tvg-id="95" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NTV.png" group-title="News - SabbirIPTV",NTV
+https://madplay.live/jiotv/app/live/646/null/index.m3u8
+#EXTINF:-1 tvg-id="96" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Thanthi_TV.png" group-title="News - SabbirIPTV",Thanthi TV
+https://madplay.live/jiotv/app/live/830/null/index.m3u8
+#EXTINF:-1 tvg-id="97" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png" group-title="News - SabbirIPTV",News 24
+https://madplay.live/jiotv/app/live/501/null/index.m3u8
+#EXTINF:-1 tvg-id="98" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Maharashtra.png" group-title="News - SabbirIPTV",TV9 Maharashtra
+https://madplay.live/jiotv/app/live/617/null/index.m3u8
+#EXTINF:-1 tvg-id="99" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_24_Taas.png" group-title="News - SabbirIPTV",Zee 24 Taas
+https://madplay.live/jiotv/app/live/442/null/index.m3u8
+#EXTINF:-1 tvg-id="100" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Sports - SabbirIPTV",Sony Ten 3 HD
+https://madplay.live/jiotv/app/live/892/null/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports.png" group-title="Sports - SabbirIPTV",Jio Sports HD
+https://madplay.live/jiotv/app/live/889/null/index.m3u8
+#EXTINF:-1 tvg-id="102" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="Sports - SabbirIPTV",Eurosport HD
+https://madplay.live/jiotv/app/live/875/null/index.m3u8
+#EXTINF:-1 tvg-id="103" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football.png" group-title="Sports - SabbirIPTV",Jio Football HD
+https://madplay.live/jiotv/app/live/1156/null/index.m3u8
+#EXTINF:-1 tvg-id="104" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_1_HD.png" group-title="Sports - SabbirIPTV",Jio Cricket 1 HD
+https://madplay.live/jiotv/app/live/1160/null/index.m3u8
+#EXTINF:-1 tvg-id="105" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_1.png" group-title="Sports - SabbirIPTV",Jio Football 1 HD
+https://madplay.live/jiotv/app/live/1165/null/index.m3u8
+#EXTINF:-1 tvg-id="106" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_2.png" group-title="Sports - SabbirIPTV",Jio Football 2 HD
+https://madplay.live/jiotv/app/live/1167/null/index.m3u8
+#EXTINF:-1 tvg-id="107" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_3.png" group-title="Sports - SabbirIPTV",Jio Football 3 HD
+https://madplay.live/jiotv/app/live/1168/null/index.m3u8
+#EXTINF:-1 tvg-id="108" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_4.png" group-title="Sports - SabbirIPTV",Jio Football 4 HD
+https://madplay.live/jiotv/app/live/1169/null/index.m3u8
+#EXTINF:-1 tvg-id="109" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="Sports - SabbirIPTV",Sony Ten 1
+https://madplay.live/jiotv/app/live/514/null/index.m3u8
+#EXTINF:-1 tvg-id="110" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="Sports - SabbirIPTV",Ten 2
+https://madplay.live/jiotv/app/live/523/null/index.m3u8
+#EXTINF:-1 tvg-id="111" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="Sports - SabbirIPTV",Sony Ten 3
+https://madplay.live/jiotv/app/live/524/null/index.m3u8
+#EXTINF:-1 tvg-id="112" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="Sports - SabbirIPTV",Sony Ten 5
+https://madplay.live/jiotv/app/live/525/null/index.m3u8
+#EXTINF:-1 tvg-id="113" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png" group-title="Music - SabbirIPTV",Sun Music HD
+https://madplay.live/jiotv/app/live/895/null/index.m3u8
+#EXTINF:-1 tvg-id="114" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png" group-title="Music - SabbirIPTV",Zing
+https://madplay.live/jiotv/app/live/585/null/index.m3u8
+#EXTINF:-1 tvg-id="115" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" group-title="Music - SabbirIPTV",9XM
+https://madplay.live/jiotv/app/live/587/null/index.m3u8
+#EXTINF:-1 tvg-id="116" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/E_24.png" group-title="Music - SabbirIPTV",E 24
+https://madplay.live/jiotv/app/live/591/null/index.m3u8
+#EXTINF:-1 tvg-id="117" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="Music - SabbirIPTV",B4U Music
+https://madplay.live/jiotv/app/live/183/null/index.m3u8
+#EXTINF:-1 tvg-id="118" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png" group-title="Music - SabbirIPTV",ZOOM
+https://madplay.live/jiotv/app/live/592/null/index.m3u8
+#EXTINF:-1 tvg-id="119" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Music_HD.png" group-title="Music - SabbirIPTV",Gemini Music HD
+https://madplay.live/jiotv/app/live/898/null/index.m3u8
+#EXTINF:-1 tvg-id="120" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png" group-title="Music - SabbirIPTV",MTV
+https://madplay.live/jiotv/app/live/248/null/index.m3u8
+#EXTINF:-1 tvg-id="121" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Udaya_Music.png" group-title="Music - SabbirIPTV",Udaya Music
+https://madplay.live/jiotv/app/live/744/null/index.m3u8
+#EXTINF:-1 tvg-id="122" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="Music - SabbirIPTV",9X Jalwa
+https://madplay.live/jiotv/app/live/440/null/index.m3u8
+#EXTINF:-1 tvg-id="123" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Public_Music.png" group-title="Music - SabbirIPTV",Public Music
+https://madplay.live/jiotv/app/live/773/null/index.m3u8
+#EXTINF:-1 tvg-id="124" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Max.png" group-title="Music - SabbirIPTV",Jaya Max
+https://madplay.live/jiotv/app/live/420/null/index.m3u8
+#EXTINF:-1 tvg-id="125" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bhojpuri.png" group-title="Music - SabbirIPTV",Sangeet Bhojpuri
+https://madplay.live/jiotv/app/live/741/null/index.m3u8
+#EXTINF:-1 tvg-id="126" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bangla.png" group-title="Music - SabbirIPTV",Sangeet Bangla
+https://madplay.live/jiotv/app/live/740/null/index.m3u8
+#EXTINF:-1 tvg-id="127" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Kids - SabbirIPTV",Sonic Hindi
+https://madplay.live/jiotv/app/live/815/null/index.m3u8
+#EXTINF:-1 tvg-id="128" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Kids - SabbirIPTV",Sony Yay Hindi
+https://madplay.live/jiotv/app/live/872/null/index.m3u8
+#EXTINF:-1 tvg-id="129" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png" group-title="Kids - SabbirIPTV",Nickelodeon
+https://madplay.live/jiotv/app/live/547/null/index.m3u8
+#EXTINF:-1 tvg-id="130" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Tamil.png" group-title="Kids - SabbirIPTV",Nick Tamil
+https://madplay.live/jiotv/app/live/546/null/index.m3u8
+#EXTINF:-1 tvg-id="131" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png" group-title="Kids - SabbirIPTV",Pogo Tamil
+https://madplay.live/jiotv/app/live/542/null/index.m3u8
+#EXTINF:-1 tvg-id="132" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png" group-title="Kids - SabbirIPTV",CN HD+ English
+https://madplay.live/jiotv/app/live/1079/null/index.m3u8
+#EXTINF:-1 tvg-id="133" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png" group-title="Kids - SabbirIPTV",Cartoon Network Tamil
+https://madplay.live/jiotv/app/live/817/null/index.m3u8
+#EXTINF:-1 tvg-id="134" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png" group-title="Kids - SabbirIPTV",Nick Telugu
+https://madplay.live/jiotv/app/live/543/null/index.m3u8
+#EXTINF:-1 tvg-id="135" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="Kids - SabbirIPTV",Discovery Kids 2
+https://madplay.live/jiotv/app/live/554/null/index.m3u8
+#EXTINF:-1 tvg-id="136" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Kids - SabbirIPTV",Nick Junior
+https://madplay.live/jiotv/app/live/544/null/index.m3u8
+#EXTINF:-1 tvg-id="137" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" group-title="Infotainment - SabbirIPTV",Animal Planet HD World
+https://madplay.live/jiotv/app/live/286/null/index.m3u8
+#EXTINF:-1 tvg-id="138" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="Lifestyle - SabbirIPTV",Travelxp HD
+https://madplay.live/jiotv/app/live/164/null/index.m3u8
+#EXTINF:-1 tvg-id="139" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" group-title="Infotainment - SabbirIPTV",Animal Planet Hindi
+https://madplay.live/jiotv/app/live/566/null/index.m3u8
+#EXTINF:-1 tvg-id="140" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" group-title="Infotainment - SabbirIPTV",Discovery Channel Hindi
+https://madplay.live/jiotv/app/live/575/null/index.m3u8
+#EXTINF:-1 tvg-id="141" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="Infotainment - SabbirIPTV",History TV18 HD Hindi
+https://madplay.live/jiotv/app/live/578/null/index.m3u8
+#EXTINF:-1 tvg-id="142" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="Infotainment - SabbirIPTV",Discovery Science
+https://madplay.live/jiotv/app/live/568/null/index.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Events.png" group-title="Infotainment - SabbirIPTV",Jio Events HD
+https://madplay.live/jiotv/app/live/871/null/index.m3u8
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" group-title="Infotainment - SabbirIPTV",Discovery Channel Telugu
+https://madplay.live/jiotv/app/live/576/null/index.m3u8
+#EXTINF:-1 tvg-id="145" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title="Infotainment - SabbirIPTV",D Tamil
+https://madplay.live/jiotv/app/live/569/null/index.m3u8
+#EXTINF:-1 tvg-id="146" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Tamil.png" group-title="Infotainment - SabbirIPTV",History TV18 HD Tamil
+https://madplay.live/jiotv/app/live/579/null/index.m3u8
+#EXTINF:-1 tvg-id="147" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png" group-title="Infotainment - SabbirIPTV",History TV18 HD Telugu
+https://madplay.live/jiotv/app/live/577/null/index.m3u8
+#EXTINF:-1 tvg-id="148" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_English.png" group-title="Infotainment - SabbirIPTV",Animal Planet English
+https://madplay.live/jiotv/app/live/567/null/index.m3u8
+#EXTINF:-1 tvg-id="149" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png" group-title="Infotainment - SabbirIPTV",Discovery Channel Bengali
+https://madplay.live/jiotv/app/live/573/null/index.m3u8
+#EXTINF:-1 tvg-id="150" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_Tamil.png" group-title="Lifestyle - SabbirIPTV",Travelxp Tamil
+https://madplay.live/jiotv/app/live/814/null/index.m3u8
+#EXTINF:-1 tvg-id="151" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment - SabbirIPTV",Sony BBC Earth HD Telugu
+https://madplay.live/jiotv/app/live/854/null/index.m3u8
+#EXTINF:-1 tvg-id="152" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery.png" group-title="Infotainment - SabbirIPTV",Discovery
+https://madplay.live/jiotv/app/live/242/null/index.m3u8
+#EXTINF:-1 tvg-id="153" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Tamil.png" group-title="Infotainment - SabbirIPTV",Sony BBC Earth HD Tamil
+https://madplay.live/jiotv/app/live/853/null/index.m3u8
+#EXTINF:-1 tvg-id="154" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="Lifestyle - SabbirIPTV",Travelxp HD Hindi
+https://madplay.live/jiotv/app/live/562/null/index.m3u8
+#EXTINF:-1 tvg-id="155" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_English.png" group-title="Lifestyle - SabbirIPTV",TLC English
+https://madplay.live/jiotv/app/live/574/null/index.m3u8
+#EXTINF:-1 tvg-id="156" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Abhiruchi.png" group-title="Lifestyle - SabbirIPTV",ETV Abhiruchi
+https://madplay.live/jiotv/app/live/565/null/index.m3u8
+#EXTINF:-1 tvg-id="157" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_Hindi.png" group-title="Lifestyle - SabbirIPTV",TLC Hindi
+https://madplay.live/jiotv/app/live/571/null/index.m3u8
+#EXTINF:-1 tvg-id="158" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sadhguru_Television.png" group-title="Devotional - SabbirIPTV",Sadhguru Television HD
+https://madplay.live/jiotv/app/live/1201/null/index.m3u8
+#EXTINF:-1 tvg-id="159" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kaumudy_TV.png" group-title="Lifestyle - SabbirIPTV",Kaumudy TV
+https://madplay.live/jiotv/app/live/563/null/index.m3u8
+#EXTINF:-1 tvg-id="160" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv_18.png" group-title="Business - SabbirIPTV",CNBC Tv 18
+https://madplay.live/jiotv/app/live/489/null/index.m3u8
+#EXTINF:-1 tvg-id="161" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ET_Now.png" group-title="Business - SabbirIPTV",ET Now
+https://madplay.live/jiotv/app/live/212/null/index.m3u8
+#EXTINF:-1 tvg-id="162" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ET_Now_Swadesh.png" group-title="Business - SabbirIPTV",ET Now Swadesh
+https://madplay.live/jiotv/app/live/1907/null/index.m3u8
+#EXTINF:-1 tvg-id="163" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhakti_TV.png" group-title="Devotional - SabbirIPTV",Bhakti TV
+https://madplay.live/jiotv/app/live/776/null/index.m3u8
+#EXTINF:-1 tvg-id="164" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Sankara.png" group-title="Devotional - SabbirIPTV",Sri Sankara
+https://madplay.live/jiotv/app/live/829/null/index.m3u8
+#EXTINF:-1 tvg-id="165" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Peace_of_Mind.png" group-title="Devotional - SabbirIPTV",Peace of Mind
+https://madplay.live/jiotv/app/live/794/null/index.m3u8
+#EXTINF:-1 tvg-id="166" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Shraddha.png" group-title="Devotional - SabbirIPTV",mh1 Shraddha
+https://madplay.live/jiotv/app/live/609/null/index.m3u8
+#EXTINF:-1 tvg-id="167" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Venkateshwar_Bhakti.png" group-title="Devotional - SabbirIPTV",Sri Venkateshwar Bhakti
+https://madplay.live/jiotv/app/live/598/null/index.m3u8
+#EXTINF:-1 tvg-id="168" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Divya_TV.png" group-title="Devotional - SabbirIPTV",Divya TV
+https://madplay.live/jiotv/app/live/801/null/index.m3u8
+#EXTINF:-1 tvg-id="169" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Paras_tv.png" group-title="Devotional - SabbirIPTV",Paras tv
+https://madplay.live/jiotv/app/live/602/null/index.m3u8
+#EXTINF:-1 tvg-id="170" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sadhna.png" group-title="Devotional - SabbirIPTV",Sadhna
+https://madplay.live/jiotv/app/live/593/null/index.m3u8
+#EXTINF:-1 tvg-id="171" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Satsang_TV.png" group-title="Devotional - SabbirIPTV",Satsang TV
+https://madplay.live/jiotv/app/live/597/null/index.m3u8
+#EXTINF:-1 tvg-id="172" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_OM_Spiritual.png" group-title="Devotional - SabbirIPTV",CVR OM Spiritual
+https://madplay.live/jiotv/app/live/772/null/index.m3u8
+#EXTINF:-1 tvg-id="173" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aradhana_TV.png" group-title="Devotional - SabbirIPTV",Aradhana TV
+https://madplay.live/jiotv/app/live/777/null/index.m3u8
+#EXTINF:-1 tvg-id="174" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jinvani_TV.png" group-title="Devotional - SabbirIPTV",Jinvani TV
+https://madplay.live/jiotv/app/live/596/null/index.m3u8
+#EXTINF:-1 tvg-id="175" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shubh_TV.png" group-title="Devotional - SabbirIPTV",Shubh TV
+https://madplay.live/jiotv/app/live/828/null/index.m3u8
+#EXTINF:-1 tvg-id="176" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Subhavartha_TV.png" group-title="Devotional - SabbirIPTV",Subhavartha TV
+https://madplay.live/jiotv/app/live/607/null/index.m3u8
+#EXTINF:-1 tvg-id="177" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Divya_Vani.png" group-title="Devotional - SabbirIPTV",Divya Vani
+https://madplay.live/jiotv/app/live/934/null/index.m3u8
+#EXTINF:-1 tvg-id="178" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Arihant_TV.png" group-title="Devotional - SabbirIPTV",Arihant TV
+https://madplay.live/jiotv/app/live/466/null/index.m3u8
+#EXTINF:-1 tvg-id="179" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_4_HD.png" group-title="Sports - SabbirIPTV",Jio Cricket 4 HD
+https://madplay.live/jiotv/app/live/1272/null/index.m3u8
+#EXTINF:-1 tvg-id="180" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Pariwar.png" group-title="Entertainment - SabbirIPTV",Raj Pariwar
+https://madplay.live/jiotv/app/live/533/null/index.m3u8
+#EXTINF:-1 tvg-id="181" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Bihar.png" group-title="Entertainment - SabbirIPTV",DD Bihar
+https://madplay.live/jiotv/app/live/539/null/index.m3u8
+#EXTINF:-1 tvg-id="182" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" group-title="Entertainment - SabbirIPTV",Jaya TV HD
+https://madplay.live/jiotv/app/live/419/null/index.m3u8
+#EXTINF:-1 tvg-id="183" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazavali_Manorama_HD.png" group-title="Entertainment - SabbirIPTV",Mazavali Manorama HD
+https://madplay.live/jiotv/app/live/844/null/index.m3u8
+#EXTINF:-1 tvg-id="184" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MK_TV.png" group-title="Entertainment - SabbirIPTV",MK TV
+https://madplay.live/jiotv/app/live/847/null/index.m3u8
+#EXTINF:-1 tvg-id="185" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Super.png" group-title="Entertainment - SabbirIPTV",Colors Super
+https://madplay.live/jiotv/app/live/785/null/index.m3u8
+#EXTINF:-1 tvg-id="186" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vendhar_TV.png" group-title="Entertainment - SabbirIPTV",Vendhar TV
+https://madplay.live/jiotv/app/live/857/null/index.m3u8
+#EXTINF:-1 tvg-id="187" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_TV_HD.png" group-title="Entertainment - SabbirIPTV",Gemini TV HD
+https://madplay.live/jiotv/app/live/897/null/index.m3u8
+#EXTINF:-1 tvg-id="188" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_HD.png" group-title="Entertainment - SabbirIPTV",Surya HD
+https://madplay.live/jiotv/app/live/900/null/index.m3u8
+#EXTINF:-1 tvg-id="189" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Udaya_HD.png" group-title="Entertainment - SabbirIPTV",Udaya HD
+https://madplay.live/jiotv/app/live/901/null/index.m3u8
+#EXTINF:-1 tvg-id="190" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Arre.png" group-title="Entertainment - SabbirIPTV",Arre HD
+https://madplay.live/jiotv/app/live/963/null/index.m3u8
+#EXTINF:-1 tvg-id="191" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sarthak_TV.png" group-title="Entertainment - SabbirIPTV",Zee Sarthak
+https://madplay.live/jiotv/app/live/722/null/index.m3u8
+#EXTINF:-1 tvg-id="192" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Flower_TV.png" group-title="Entertainment - SabbirIPTV",Flower TV
+https://madplay.live/jiotv/app/live/634/null/index.m3u8
+#EXTINF:-1 tvg-id="193" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png" group-title="Entertainment - SabbirIPTV",Mazhavil Manorama
+https://madplay.live/jiotv/app/live/648/null/index.m3u8
+#EXTINF:-1 tvg-id="194" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Puthu_Yugam.png" group-title="Entertainment - SabbirIPTV",Puthu Yugam
+https://madplay.live/jiotv/app/live/824/null/index.m3u8
+#EXTINF:-1 tvg-id="195" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Saam_Tv.png" group-title="Entertainment - SabbirIPTV",Saam Tv
+https://madplay.live/jiotv/app/live/691/null/index.m3u8
+#EXTINF:-1 tvg-id="196" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Oriya.png" group-title="Entertainment - SabbirIPTV",Colors Oriya
+https://madplay.live/jiotv/app/live/198/null/index.m3u8
+#EXTINF:-1 tvg-id="197" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jonack.png" group-title="Entertainment - SabbirIPTV",Jonack
+https://madplay.live/jiotv/app/live/765/null/index.m3u8
+#EXTINF:-1 tvg-id="198" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rang.png" group-title="Entertainment - SabbirIPTV",Rang
+https://madplay.live/jiotv/app/live/623/null/index.m3u8
+#EXTINF:-1 tvg-id="199" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rengoni.png" group-title="Entertainment - SabbirIPTV",Rengoni
+https://madplay.live/jiotv/app/live/635/null/index.m3u8
+#EXTINF:-1 tvg-id="200" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus.png" group-title="Entertainment - SabbirIPTV",ETV Plus
+https://madplay.live/jiotv/app/live/692/null/index.m3u8
+#EXTINF:-1 tvg-id="201" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Entertainment - SabbirIPTV",Sony Marathi SD
+https://madplay.live/jiotv/app/live/1146/null/index.m3u8
+#EXTINF:-1 tvg-id="202" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sahayadri.png" group-title="Entertainment - SabbirIPTV",DD Sahayadri
+https://madplay.live/jiotv/app/live/695/null/index.m3u8
+#EXTINF:-1 tvg-id="203" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="Entertainment - SabbirIPTV",Sony aath
+https://madplay.live/jiotv/app/live/697/null/index.m3u8
+#EXTINF:-1 tvg-id="204" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aakaash_bangla.png" group-title="Entertainment - SabbirIPTV",Aakash Aath
+https://madplay.live/jiotv/app/live/698/null/index.m3u8
+#EXTINF:-1 tvg-id="205" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dangal.png" group-title="Entertainment - SabbirIPTV",Dangal
+https://madplay.live/jiotv/app/live/701/null/index.m3u8
+#EXTINF:-1 tvg-id="206" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Oriya.png" group-title="Entertainment - SabbirIPTV",DD Oriya
+https://madplay.live/jiotv/app/live/702/null/index.m3u8
+#EXTINF:-1 tvg-id="207" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png" group-title="Entertainment - SabbirIPTV",Polimer TV
+https://madplay.live/jiotv/app/live/705/null/index.m3u8
+#EXTINF:-1 tvg-id="208" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Comedy.png" group-title="Entertainment - SabbirIPTV",Gemini Comedy
+https://madplay.live/jiotv/app/live/729/null/index.m3u8
+#EXTINF:-1 tvg-id="209" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png" group-title="Entertainment - SabbirIPTV",Raj TV
+https://madplay.live/jiotv/app/live/707/null/index.m3u8
+#EXTINF:-1 tvg-id="210" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Makkal_TV.png" group-title="Entertainment - SabbirIPTV",Makkal TV
+https://madplay.live/jiotv/app/live/708/null/index.m3u8
+#EXTINF:-1 tvg-id="211" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Adithya_TV.png" group-title="Entertainment - SabbirIPTV",Adithya TV
+https://madplay.live/jiotv/app/live/709/null/index.m3u8
+#EXTINF:-1 tvg-id="212" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_TV.png" group-title="Entertainment - SabbirIPTV",Kairali TV
+https://madplay.live/jiotv/app/live/710/null/index.m3u8
+#EXTINF:-1 tvg-id="213" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Captain_tv.png" group-title="Entertainment - SabbirIPTV",Captain tv
+https://madplay.live/jiotv/app/live/711/null/index.m3u8
+#EXTINF:-1 tvg-id="214" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Saptagiri.png" group-title="Entertainment - SabbirIPTV",DD Saptagiri
+https://madplay.live/jiotv/app/live/706/null/index.m3u8
+#EXTINF:-1 tvg-id="215" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD9_chandana_kannada.png" group-title="Entertainment - SabbirIPTV",DD9 chandana (kannada)
+https://madplay.live/jiotv/app/live/713/null/index.m3u8
+#EXTINF:-1 tvg-id="216" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Girnar.png" group-title="Entertainment - SabbirIPTV",DD Girnar
+https://madplay.live/jiotv/app/live/714/null/index.m3u8
+#EXTINF:-1 tvg-id="217" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Punjabi.png" group-title="Entertainment - SabbirIPTV",DD Punjabi
+https://madplay.live/jiotv/app/live/715/null/index.m3u8
+#EXTINF:-1 tvg-id="218" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nepal_one.png" group-title="Entertainment - SabbirIPTV",Nepal one
+https://madplay.live/jiotv/app/live/719/null/index.m3u8
+#EXTINF:-1 tvg-id="219" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Amrita_TV.png" group-title="Entertainment - SabbirIPTV",Amrita TV
+https://madplay.live/jiotv/app/live/723/null/index.m3u8
+#EXTINF:-1 tvg-id="220" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_People_TV.png" group-title="News - SabbirIPTV",Kairali News
+https://madplay.live/jiotv/app/live/725/null/index.m3u8
+#EXTINF:-1 tvg-id="221" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD5_Podhigai.png" group-title="Entertainment - SabbirIPTV",DD5 Podhigai
+https://madplay.live/jiotv/app/live/726/null/index.m3u8
+#EXTINF:-1 tvg-id="222" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vasanth_TV.png" group-title="Entertainment - SabbirIPTV",Vasanth TV
+https://madplay.live/jiotv/app/live/727/null/index.m3u8
+#EXTINF:-1 tvg-id="223" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Salaam.png" group-title="Entertainment - SabbirIPTV",Zee Salaam
+https://madplay.live/jiotv/app/live/728/null/index.m3u8
+#EXTINF:-1 tvg-id="224" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kasturi.png" group-title="Entertainment - SabbirIPTV",Kasturi
+https://madplay.live/jiotv/app/live/730/null/index.m3u8
+#EXTINF:-1 tvg-id="225" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_WE_TV.png" group-title="Entertainment - SabbirIPTV",Kairali WE TV
+https://madplay.live/jiotv/app/live/731/null/index.m3u8
+#EXTINF:-1 tvg-id="226" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Udaya_Comedy.png" group-title="Entertainment - SabbirIPTV",Udaya Comedy
+https://madplay.live/jiotv/app/live/733/null/index.m3u8
+#EXTINF:-1 tvg-id="227" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vissa_TV.png" group-title="Entertainment - SabbirIPTV",Vissa TV
+https://madplay.live/jiotv/app/live/734/null/index.m3u8
+#EXTINF:-1 tvg-id="228" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maiboli.png" group-title="Entertainment - SabbirIPTV",Maiboli
+https://madplay.live/jiotv/app/live/736/null/index.m3u8
+#EXTINF:-1 tvg-id="229" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/The_Q_Kahaniyan.png" group-title="Kids - SabbirIPTV",The Q Kahaniyan
+https://madplay.live/jiotv/app/live/1920/null/index.m3u8
+#EXTINF:-1 tvg-id="230" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dillagi_TV.png" group-title="Entertainment - SabbirIPTV",Dillagi TV
+https://madplay.live/jiotv/app/live/534/null/index.m3u8
+#EXTINF:-1 tvg-id="231" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dhamaal_TV.png" group-title="Entertainment - SabbirIPTV",Dhamaal TV
+https://madplay.live/jiotv/app/live/535/null/index.m3u8
+#EXTINF:-1 tvg-id="232" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies.png" group-title="Movies - SabbirIPTV",Zee Talkies
+https://madplay.live/jiotv/app/live/153/null/index.m3u8
+#EXTINF:-1 tvg-id="233" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png" group-title="Movies - SabbirIPTV",J Movies
+https://madplay.live/jiotv/app/live/417/null/index.m3u8
+#EXTINF:-1 tvg-id="234" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png" group-title="Movies - SabbirIPTV",Zee Bangla Cinema
+https://madplay.live/jiotv/app/live/685/null/index.m3u8
+#EXTINF:-1 tvg-id="235" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema.png" group-title="Movies - SabbirIPTV",ETV Cinema
+https://madplay.live/jiotv/app/live/252/null/index.m3u8
+#EXTINF:-1 tvg-id="236" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Life.png" group-title="Movies - SabbirIPTV",Gemini Life
+https://madplay.live/jiotv/app/live/684/null/index.m3u8
+#EXTINF:-1 tvg-id="237" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Life.png" group-title="Movies - SabbirIPTV",Sun Life
+https://madplay.live/jiotv/app/live/682/null/index.m3u8
+#EXTINF:-1 tvg-id="238" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Fakt_Marathi.png" group-title="Movies - SabbirIPTV",Fakt Marathi
+https://madplay.live/jiotv/app/live/738/null/index.m3u8
+#EXTINF:-1 tvg-id="239" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pitaara.png" group-title="Movies - SabbirIPTV",Pitaara
+https://madplay.live/jiotv/app/live/946/null/index.m3u8
+#EXTINF:-1 tvg-id="240" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maha_Movies.png" group-title="Movies - SabbirIPTV",Maha Movies
+https://madplay.live/jiotv/app/live/809/null/index.m3u8
+#EXTINF:-1 tvg-id="241" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png" group-title="Movies - SabbirIPTV",Raj Digital Plus
+https://madplay.live/jiotv/app/live/683/null/index.m3u8
+#EXTINF:-1 tvg-id="242" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Osar_Movies.png" group-title="Movies - SabbirIPTV",Oscar Movies
+https://madplay.live/jiotv/app/live/883/null/index.m3u8
+#EXTINF:-1 tvg-id="243" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Amaar_Cinema.png" group-title="Movies - SabbirIPTV",Amaar Cinema
+https://madplay.live/jiotv/app/live/1101/null/index.m3u8
+#EXTINF:-1 tvg-id="244" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" group-title="News - SabbirIPTV",ABN Andhra Jyothi
+https://madplay.live/jiotv/app/live/666/null/index.m3u8
+#EXTINF:-1 tvg-id="245" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Nation.png" group-title="News - SabbirIPTV",News Nation
+https://madplay.live/jiotv/app/live/499/null/index.m3u8
+#EXTINF:-1 tvg-id="246" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kanak_TV.png" group-title="News - SabbirIPTV",Kanak News
+https://madplay.live/jiotv/app/live/718/null/index.m3u8
+#EXTINF:-1 tvg-id="247" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_news.png" group-title="News - SabbirIPTV",India news
+https://madplay.live/jiotv/app/live/498/null/index.m3u8
+#EXTINF:-1 tvg-id="248" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Puthiya_Thalimurai.png" group-title="News - SabbirIPTV",Puthiya Thalimurai
+https://madplay.live/jiotv/app/live/677/null/index.m3u8
+#EXTINF:-1 tvg-id="249" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_BIHAR.png" group-title="News - SabbirIPTV",News18 BIHAR
+https://madplay.live/jiotv/app/live/693/null/index.m3u8
+#EXTINF:-1 tvg-id="250" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dighvijay_TV.png" group-title="News - SabbirIPTV",Dighvijay TV
+https://madplay.live/jiotv/app/live/923/null/index.m3u8
+#EXTINF:-1 tvg-id="251" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kalinga.png" group-title="News - SabbirIPTV",Zee Delhi NCR Haryana
+https://madplay.live/jiotv/app/live/724/null/index.m3u8
+#EXTINF:-1 tvg-id="252" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Gujarati.png" group-title="News - SabbirIPTV",News18 Gujarati
+https://madplay.live/jiotv/app/live/620/null/index.m3u8
+#EXTINF:-1 tvg-id="253" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tez.png" group-title="News - SabbirIPTV",Good News Today
+https://madplay.live/jiotv/app/live/502/null/index.m3u8
+#EXTINF:-1 tvg-id="254" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png" group-title="News - SabbirIPTV",Asianet News
+https://madplay.live/jiotv/app/live/180/null/index.m3u8
+#EXTINF:-1 tvg-id="255" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_SD.png" group-title="Infotainment - SabbirIPTV",Sony BBC Earth SD
+https://madplay.live/jiotv/app/live/823/null/index.m3u8
+#EXTINF:-1 tvg-id="256" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Kannada_News.png" group-title="News - SabbirIPTV",News18 Kannada News
+https://madplay.live/jiotv/app/live/653/null/index.m3u8
+#EXTINF:-1 tvg-id="257" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News7_Tamil.png" group-title="News - SabbirIPTV",News7 Tamil
+https://madplay.live/jiotv/app/live/673/null/index.m3u8
+#EXTINF:-1 tvg-id="258" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DY_365.png" group-title="News - SabbirIPTV",DY 365
+https://madplay.live/jiotv/app/live/633/null/index.m3u8
+#EXTINF:-1 tvg-id="259" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png" group-title="News - SabbirIPTV",News18 Lokmat
+https://madplay.live/jiotv/app/live/232/null/index.m3u8
+#EXTINF:-1 tvg-id="260" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pratidin_News.png" group-title="News - SabbirIPTV",Pratidin Time
+https://madplay.live/jiotv/app/live/647/null/index.m3u8
+#EXTINF:-1 tvg-id="261" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tv_9_Gujarat.png" group-title="News - SabbirIPTV",Tv 9 Gujarat
+https://madplay.live/jiotv/app/live/616/null/index.m3u8
+#EXTINF:-1 tvg-id="262" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_RAJASTHAN.png" group-title="News - SabbirIPTV",News18 RAJASTHAN
+https://madplay.live/jiotv/app/live/531/null/index.m3u8
+#EXTINF:-1 tvg-id="263" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Bangla_News.png" group-title="News - SabbirIPTV",News18 Bangla News
+https://madplay.live/jiotv/app/live/717/null/index.m3u8
+#EXTINF:-1 tvg-id="264" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_News.png" group-title="News - SabbirIPTV",Sun News
+https://madplay.live/jiotv/app/live/676/null/index.m3u8
+#EXTINF:-1 tvg-id="265" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_State_UK_UP.png" group-title="News - SabbirIPTV",News State UK UP
+https://madplay.live/jiotv/app/live/792/null/index.m3u8
+#EXTINF:-1 tvg-id="266" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Assam.png" group-title="News - SabbirIPTV",News 18 Assam
+https://madplay.live/jiotv/app/live/627/null/index.m3u8
+#EXTINF:-1 tvg-id="267" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Asmita.png" group-title="News - SabbirIPTV",ABP Asmita
+https://madplay.live/jiotv/app/live/641/null/index.m3u8
+#EXTINF:-1 tvg-id="268" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_MP.png" group-title="News - SabbirIPTV",News18 MP
+https://madplay.live/jiotv/app/live/529/null/index.m3u8
+#EXTINF:-1 tvg-id="269" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kashish_News.png" group-title="News - SabbirIPTV",Kashish News
+https://madplay.live/jiotv/app/live/770/null/index.m3u8
+#EXTINF:-1 tvg-id="270" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/V6_News.png" group-title="News - SabbirIPTV",V6 News
+https://madplay.live/jiotv/app/live/769/null/index.m3u8
+#EXTINF:-1 tvg-id="271" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Andhra_pradesh.png" group-title="News - SabbirIPTV",ETV Andhra pradesh
+https://madplay.live/jiotv/app/live/614/null/index.m3u8
+#EXTINF:-1 tvg-id="272" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="News - SabbirIPTV",News 18 Tamilnadu
+https://madplay.live/jiotv/app/live/615/null/index.m3u8
+#EXTINF:-1 tvg-id="273" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Manorama_News.png" group-title="News - SabbirIPTV",Manorama News
+https://madplay.live/jiotv/app/live/662/null/index.m3u8
+#EXTINF:-1 tvg-id="274" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mathrubhumi_News.png" group-title="News - SabbirIPTV",Mathrubhumi News
+https://madplay.live/jiotv/app/live/780/null/index.m3u8
+#EXTINF:-1 tvg-id="275" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_Today.png" group-title="News - SabbirIPTV",India Today
+https://madplay.live/jiotv/app/live/493/null/index.m3u8
+#EXTINF:-1 tvg-id="276" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="Sports - SabbirIPTV",DD Sports
+https://madplay.live/jiotv/app/live/204/null/index.m3u8
+#EXTINF:-1 tvg-id="277" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MK_Music.png" group-title="Music - SabbirIPTV",MK Music
+https://madplay.live/jiotv/app/live/845/null/index.m3u8
+#EXTINF:-1 tvg-id="278" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-title="Music - SabbirIPTV",Music India
+https://madplay.live/jiotv/app/live/250/null/index.m3u8
+#EXTINF:-1 tvg-id="279" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Kannada.png" group-title="Music - SabbirIPTV",Raj Music Kannada
+https://madplay.live/jiotv/app/live/743/null/index.m3u8
+#EXTINF:-1 tvg-id="280" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ramdhenu.png" group-title="Music - SabbirIPTV",Ramdhenu
+https://madplay.live/jiotv/app/live/639/null/index.m3u8
+#EXTINF:-1 tvg-id="281" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Musix.png" group-title="Music - SabbirIPTV",Raj Musix
+https://madplay.live/jiotv/app/live/748/null/index.m3u8
+#EXTINF:-1 tvg-id="282" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Chak_De.png" group-title="Music - SabbirIPTV",PTC Chak De
+https://madplay.live/jiotv/app/live/1172/null/index.m3u8
+#EXTINF:-1 tvg-id="283" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Tashan.png" group-title="Music - SabbirIPTV",9X Tashan
+https://madplay.live/jiotv/app/live/732/null/index.m3u8
+#EXTINF:-1 tvg-id="284" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sahana_Music.png" group-title="Music - SabbirIPTV",Sahana Music
+https://madplay.live/jiotv/app/live/749/null/index.m3u8
+#EXTINF:-1 tvg-id="285" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Music.png" group-title="Music - SabbirIPTV",mh1 (Music)
+https://madplay.live/jiotv/app/live/742/null/index.m3u8
+#EXTINF:-1 tvg-id="286" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Marathi.png" group-title="Music - SabbirIPTV",Sangeet Marathi
+https://madplay.live/jiotv/app/live/735/null/index.m3u8
+#EXTINF:-1 tvg-id="287" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9x_Jhakaas.png" group-title="Music - SabbirIPTV",9x Jhakaas
+https://madplay.live/jiotv/app/live/441/null/index.m3u8
+#EXTINF:-1 tvg-id="288" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Music.png" group-title="Music - SabbirIPTV",Surya Music
+https://madplay.live/jiotv/app/live/747/null/index.m3u8
+#EXTINF:-1 tvg-id="289" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png" group-title="Music - SabbirIPTV",Raj Music Telugu
+https://madplay.live/jiotv/app/live/737/null/index.m3u8
+#EXTINF:-1 tvg-id="290" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kappa_TV.png" group-title="Music - SabbirIPTV",Kappa TV
+https://madplay.live/jiotv/app/live/786/null/index.m3u8
+#EXTINF:-1 tvg-id="291" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Malayalam.png" group-title="Music - SabbirIPTV",Raj Music Malayalam
+https://madplay.live/jiotv/app/live/739/null/index.m3u8
+#EXTINF:-1 tvg-id="292" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/10_TV.png" group-title="News - SabbirIPTV",10 TV
+https://madplay.live/jiotv/app/live/832/null/index.m3u8
+#EXTINF:-1 tvg-id="293" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News_MP_Chattisgarh.png" group-title="News - SabbirIPTV",Zee News MP Chattisgarh
+https://madplay.live/jiotv/app/live/658/null/index.m3u8
+#EXTINF:-1 tvg-id="294" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBC-24.png" group-title="News - SabbirIPTV",IBC24
+https://madplay.live/jiotv/app/live/503/null/index.m3u8
+#EXTINF:-1 tvg-id="295" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/VTV_Gujarati.png" group-title="News - SabbirIPTV",VTV Gujarati
+https://madplay.live/jiotv/app/live/642/null/index.m3u8
+#EXTINF:-1 tvg-id="296" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_News.png" group-title="News - SabbirIPTV",TV 5 News
+https://madplay.live/jiotv/app/live/668/null/index.m3u8
+#EXTINF:-1 tvg-id="297" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Exclusive.png" group-title="Entertainment - SabbirIPTV",Jio Exclusive HD
+https://madplay.live/jiotv/app/live/866/null/index.m3u8
+#EXTINF:-1 tvg-id="298" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hi_Dost.png" group-title="Entertainment - SabbirIPTV",Hi Dost!
+https://madplay.live/jiotv/app/live/1232/null/index.m3u8
+#EXTINF:-1 tvg-id="299" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Assam_Talks.png" group-title="News - SabbirIPTV",Assam Talks
+https://madplay.live/jiotv/app/live/675/null/index.m3u8
+#EXTINF:-1 tvg-id="300" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Time_TV.png" group-title="News - SabbirIPTV",News Time TV
+https://madplay.live/jiotv/app/live/687/null/index.m3u8
+#EXTINF:-1 tvg-id="301" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Purvaiya.png" group-title="News - SabbirIPTV",Zee Bihar Jharkhand
+https://madplay.live/jiotv/app/live/661/null/index.m3u8
+#EXTINF:-1 tvg-id="302" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Prameya_News_7.png" group-title="News - SabbirIPTV",Prameya News 7
+https://madplay.live/jiotv/app/live/779/null/index.m3u8
+#EXTINF:-1 tvg-id="303" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_News.png" group-title="News - SabbirIPTV",CVR News
+https://madplay.live/jiotv/app/live/784/null/index.m3u8
+#EXTINF:-1 tvg-id="304" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Rajasthan.png" group-title="News - SabbirIPTV",Zee Rajasthan
+https://madplay.live/jiotv/app/live/659/null/index.m3u8
+#EXTINF:-1 tvg-id="305" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_UP.png" group-title="News - SabbirIPTV",News18 UP
+https://madplay.live/jiotv/app/live/530/null/index.m3u8
+#EXTINF:-1 tvg-id="306" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Oriya.png" group-title="News - SabbirIPTV",News18 Oriya
+https://madplay.live/jiotv/app/live/696/null/index.m3u8
+#EXTINF:-1 tvg-id="307" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/T_News.png" group-title="News - SabbirIPTV",T News
+https://madplay.live/jiotv/app/live/667/null/index.m3u8
+#EXTINF:-1 tvg-id="308" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sandesh_News.png" group-title="News - SabbirIPTV",Sandesh News
+https://madplay.live/jiotv/app/live/782/null/index.m3u8
+#EXTINF:-1 tvg-id="309" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png" group-title="News - SabbirIPTV",DD News
+https://madplay.live/jiotv/app/live/203/null/index.m3u8
+#EXTINF:-1 tvg-id="310" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Plus.png" group-title="News - SabbirIPTV",Jaya Plus
+https://madplay.live/jiotv/app/live/418/null/index.m3u8
+#EXTINF:-1 tvg-id="311" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Malai_Murasu.png" group-title="News - SabbirIPTV",Malai Murasu
+https://madplay.live/jiotv/app/live/826/null/index.m3u8
+#EXTINF:-1 tvg-id="312" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_24_Kalak.png" group-title="News - SabbirIPTV",Zee 24 Kalak
+https://madplay.live/jiotv/app/live/929/null/index.m3u8
+#EXTINF:-1 tvg-id="313" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png" group-title="News - SabbirIPTV",BBC World News
+https://madplay.live/jiotv/app/live/142/null/index.m3u8
+#EXTINF:-1 tvg-id="314" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telangana.png" group-title="News - SabbirIPTV",ETV Telangana
+https://madplay.live/jiotv/app/live/630/null/index.m3u8
+#EXTINF:-1 tvg-id="315" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kalinga_TV.png" group-title="News - SabbirIPTV",Kalinga TV
+https://madplay.live/jiotv/app/live/781/null/index.m3u8
+#EXTINF:-1 tvg-id="316" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Janam_TV.png" group-title="News - SabbirIPTV",Janam TV
+https://madplay.live/jiotv/app/live/810/null/index.m3u8
+#EXTINF:-1 tvg-id="317" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_UP.png" group-title="News - SabbirIPTV",India News UP
+https://madplay.live/jiotv/app/live/512/null/index.m3u8
+#EXTINF:-1 tvg-id="318" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Kerala.png" group-title="News - SabbirIPTV",News 18 Kerala
+https://madplay.live/jiotv/app/live/965/null/index.m3u8
+#EXTINF:-1 tvg-id="319" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maha_News.png" group-title="News - SabbirIPTV",Maha News
+https://madplay.live/jiotv/app/live/800/null/index.m3u8
+#EXTINF:-1 tvg-id="320" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/HM_TV.png" group-title="News - SabbirIPTV",HM TV
+https://madplay.live/jiotv/app/live/665/null/index.m3u8
+#EXTINF:-1 tvg-id="321" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Chutti_TV.png" group-title="Kids - SabbirIPTV",Chutti TV
+https://madplay.live/jiotv/app/live/557/null/index.m3u8
+#EXTINF:-1 tvg-id="322" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Chintu_TV.png" group-title="Kids - SabbirIPTV",Chintu TV
+https://madplay.live/jiotv/app/live/555/null/index.m3u8
+#EXTINF:-1 tvg-id="323" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Tamil.png" group-title="Kids - SabbirIPTV",sonic Tamil
+https://madplay.live/jiotv/app/live/290/null/index.m3u8
+#EXTINF:-1 tvg-id="324" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kushi_TV.png" group-title="Kids - SabbirIPTV",Kushi TV
+https://madplay.live/jiotv/app/live/558/null/index.m3u8
+#EXTINF:-1 tvg-id="325" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Telugu.png" group-title="Kids - SabbirIPTV",Cartoon Network Telugu
+https://madplay.live/jiotv/app/live/166/null/index.m3u8
+#EXTINF:-1 tvg-id="326" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png" group-title="Kids - SabbirIPTV",Discovery Kids Tamil
+https://madplay.live/jiotv/app/live/550/null/index.m3u8
+#EXTINF:-1 tvg-id="327" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Kisan.png" group-title="Infotainment - SabbirIPTV",DD Kisan
+https://madplay.live/jiotv/app/live/583/null/index.m3u8
+#EXTINF:-1 tvg-id="328" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Life.png" group-title="Infotainment - SabbirIPTV",ETV Life
+https://madplay.live/jiotv/app/live/570/null/index.m3u8
+#EXTINF:-1 tvg-id="329" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vanitha.png" group-title="Infotainment - SabbirIPTV",Vanitha
+https://madplay.live/jiotv/app/live/775/null/index.m3u8
+#EXTINF:-1 tvg-id="330" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_Health.png" group-title="Infotainment - SabbirIPTV",CVR Health
+https://madplay.live/jiotv/app/live/774/null/index.m3u8
+#EXTINF:-1 tvg-id="331" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png" group-title="Infotainment - SabbirIPTV",Discovery Turbo
+https://madplay.live/jiotv/app/live/541/null/index.m3u8
+#EXTINF:-1 tvg-id="332" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_English.png" group-title="Infotainment - SabbirIPTV",Sony BBC Earth HD English
+https://madplay.live/jiotv/app/live/852/null/index.m3u8
+#EXTINF:-1 tvg-id="333" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Bazaar_MNO.png" group-title="Business - SabbirIPTV",CNBC Bazaar (MNO)
+https://madplay.live/jiotv/app/live/490/null/index.m3u8
+#EXTINF:-1 tvg-id="334" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Disha_tv.png" group-title="Devotional - SabbirIPTV",Disha tv
+https://madplay.live/jiotv/app/live/599/null/index.m3u8
+#EXTINF:-1 tvg-id="335" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vedic_TV.png" group-title="Devotional - SabbirIPTV",Vedic TV
+https://madplay.live/jiotv/app/live/856/null/index.m3u8
+#EXTINF:-1 tvg-id="336" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Darshan_24.png" group-title="Devotional - SabbirIPTV",Darshan 24
+https://madplay.live/jiotv/app/live/611/null/index.m3u8
+#EXTINF:-1 tvg-id="337" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ishwar_TV.png" group-title="Devotional - SabbirIPTV",Ishwar TV
+https://madplay.live/jiotv/app/live/601/null/index.m3u8
+#EXTINF:-1 tvg-id="338" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Channel_Win.png" group-title="Devotional - SabbirIPTV",Channel Win
+https://madplay.live/jiotv/app/live/605/null/index.m3u8
+#EXTINF:-1 tvg-id="339" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nambikkai.png" group-title="Devotional - SabbirIPTV",Nambikkai
+https://madplay.live/jiotv/app/live/603/null/index.m3u8
+#EXTINF:-1 tvg-id="340" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shubhsandesh_TV.png" group-title="Devotional - SabbirIPTV",Shubhsandesh TV
+https://madplay.live/jiotv/app/live/608/null/index.m3u8
+#EXTINF:-1 tvg-id="341" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shalom.png" group-title="Devotional - SabbirIPTV",Shalom
+https://madplay.live/jiotv/app/live/606/null/index.m3u8
+#EXTINF:-1 tvg-id="342" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_12.png" group-title="Educational - SabbirIPTV",PM e Vidya 12
+https://madplay.live/jiotv/app/live/1532/null/index.m3u8
+#EXTINF:-1 tvg-id="343" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gulistan_News.png" group-title="News - SabbirIPTV",Gulistan News
+https://madplay.live/jiotv/app/live/807/null/index.m3u8
+#EXTINF:-1 tvg-id="344" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jan_TV.png" group-title="News - SabbirIPTV",Jan TV
+https://madplay.live/jiotv/app/live/768/null/index.m3u8
+#EXTINF:-1 tvg-id="345" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Kannada.png" group-title="News - SabbirIPTV",Raj News Kannada
+https://madplay.live/jiotv/app/live/651/null/index.m3u8
+#EXTINF:-1 tvg-id="346" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Urdu.png" group-title="News - SabbirIPTV",News18 JKLH
+https://madplay.live/jiotv/app/live/694/null/index.m3u8
+#EXTINF:-1 tvg-id="347" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_Haryana.png" group-title="News - SabbirIPTV",India News Haryana
+https://madplay.live/jiotv/app/live/516/null/index.m3u8
+#EXTINF:-1 tvg-id="348" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_Rajasthan.png" group-title="News - SabbirIPTV",India News Rajasthan
+https://madplay.live/jiotv/app/live/513/null/index.m3u8
+#EXTINF:-1 tvg-id="349" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/GS_TV.png" group-title="News - SabbirIPTV",GS TV
+https://madplay.live/jiotv/app/live/643/null/index.m3u8
+#EXTINF:-1 tvg-id="350" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MBC.png" group-title="News - SabbirIPTV",MBC
+https://madplay.live/jiotv/app/live/631/null/index.m3u8
+#EXTINF:-1 tvg-id="351" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sahara_Samay_Bihar.png" group-title="News - SabbirIPTV",Sahara Samay Bihar
+https://madplay.live/jiotv/app/live/509/null/index.m3u8
+#EXTINF:-1 tvg-id="352" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_SANGAM.png" group-title="News - SabbirIPTV",Zee Hindustan
+https://madplay.live/jiotv/app/live/652/null/index.m3u8
+#EXTINF:-1 tvg-id="353" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hindi_Khabar.png" group-title="News - SabbirIPTV",Hindi Khabar
+https://madplay.live/jiotv/app/live/808/null/index.m3u8
+#EXTINF:-1 tvg-id="354" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Punjabi_HP_Haryana.png" group-title="News - SabbirIPTV",Zee Punjabi HP Haryana
+https://madplay.live/jiotv/app/live/654/null/index.m3u8
+#EXTINF:-1 tvg-id="355" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/First_India_News.png" group-title="News - SabbirIPTV",First India News
+https://madplay.live/jiotv/app/live/927/null/index.m3u8
+#EXTINF:-1 tvg-id="356" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SAHARA_SAMAY_MP.png" group-title="News - SabbirIPTV",SAHARA SAMAY MP
+https://madplay.live/jiotv/app/live/507/null/index.m3u8
+#EXTINF:-1 tvg-id="357" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Captain_News.png" group-title="News - SabbirIPTV",Captain News
+https://madplay.live/jiotv/app/live/645/null/index.m3u8
+#EXTINF:-1 tvg-id="358" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/I_News.png" group-title="News - SabbirIPTV",I News
+https://madplay.live/jiotv/app/live/790/null/index.m3u8
+#EXTINF:-1 tvg-id="359" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_X.png" group-title="News - SabbirIPTV",News X
+https://madplay.live/jiotv/app/live/495/null/index.m3u8
+#EXTINF:-1 tvg-id="360" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mirror_Now.png" group-title="News - SabbirIPTV",Mirror Now
+https://madplay.live/jiotv/app/live/491/null/index.m3u8
+#EXTINF:-1 tvg-id="361" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_MP.png" group-title="News - SabbirIPTV",India News MP
+https://madplay.live/jiotv/app/live/515/null/index.m3u8
+#EXTINF:-1 tvg-id="362" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sathiyam.png" group-title="News - SabbirIPTV",Sathiyam TV
+https://madplay.live/jiotv/app/live/671/null/index.m3u8
+#EXTINF:-1 tvg-id="363" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Naxatra_News.png" group-title="News - SabbirIPTV",Naxatra News
+https://madplay.live/jiotv/app/live/799/null/index.m3u8
+#EXTINF:-1 tvg-id="364" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Living_Foodz.png" group-title="News - SabbirIPTV",Zee UP UK
+https://madplay.live/jiotv/app/live/572/null/index.m3u8
+#EXTINF:-1 tvg-id="365" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN.png" group-title="News - SabbirIPTV",CNN
+https://madplay.live/jiotv/app/live/193/null/index.m3u8
+#EXTINF:-1 tvg-id="366" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Chardikla_Time_TV.png" group-title="News - SabbirIPTV",Chardikla Time TV
+https://madplay.live/jiotv/app/live/517/null/index.m3u8
+#EXTINF:-1 tvg-id="367" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sudarshan.png" group-title="News - SabbirIPTV",Sudarshan
+https://madplay.live/jiotv/app/live/518/null/index.m3u8
+#EXTINF:-1 tvg-id="368" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/JK_24x7_News.png" group-title="News - SabbirIPTV",JK 24x7 News
+https://madplay.live/jiotv/app/live/789/null/index.m3u8
+#EXTINF:-1 tvg-id="369" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AL_Jazeera.png" group-title="News - SabbirIPTV",AL Jazeera
+https://madplay.live/jiotv/app/live/494/null/index.m3u8
+#EXTINF:-1 tvg-id="370" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_News.png" group-title="News - SabbirIPTV",PTC News
+https://madplay.live/jiotv/app/live/1170/null/index.m3u8
+#EXTINF:-1 tvg-id="371" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Taaza_TV.png" group-title="News - SabbirIPTV",Taaza TV
+https://madplay.live/jiotv/app/live/791/null/index.m3u8
+#EXTINF:-1 tvg-id="372" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Live_Today.png" group-title="News - SabbirIPTV",Live Today
+https://madplay.live/jiotv/app/live/771/null/index.m3u8
+#EXTINF:-1 tvg-id="373" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sahara_Samay_Rastriya.png" group-title="News - SabbirIPTV",Sahara Samay Rastriya
+https://madplay.live/jiotv/app/live/506/null/index.m3u8
+#EXTINF:-1 tvg-id="374" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mh_One_News.png" group-title="News - SabbirIPTV",Mh One News
+https://madplay.live/jiotv/app/live/511/null/index.m3u8
+#EXTINF:-1 tvg-id="375" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Janta_TV.png" group-title="News - SabbirIPTV",Janta TV
+https://madplay.live/jiotv/app/live/880/null/index.m3u8
+#EXTINF:-1 tvg-id="376" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Haryana_and_HP_News.png" group-title="News - SabbirIPTV",News18 Punjab Haryana
+https://madplay.live/jiotv/app/live/655/null/index.m3u8
+#EXTINF:-1 tvg-id="377" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Total_TV.png" group-title="News - SabbirIPTV",Total TV
+https://madplay.live/jiotv/app/live/855/null/index.m3u8
+#EXTINF:-1 tvg-id="378" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SAHARA_SAMAY_UP.png" group-title="News - SabbirIPTV",SAHARA SAMAY UP
+https://madplay.live/jiotv/app/live/508/null/index.m3u8
+#EXTINF:-1 tvg-id="379" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Wion.png" group-title="News - SabbirIPTV",Wion
+https://madplay.live/jiotv/app/live/412/null/index.m3u8
+#EXTINF:-1 tvg-id="380" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/K_News_India.png" group-title="News - SabbirIPTV",K News India
+https://madplay.live/jiotv/app/live/783/null/index.m3u8
+#EXTINF:-1 tvg-id="381" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/North_East_Live.png" group-title="News - SabbirIPTV",North East Live
+https://madplay.live/jiotv/app/live/637/null/index.m3u8
+#EXTINF:-1 tvg-id="382" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Samachar_Plus.png" group-title="News - SabbirIPTV",Samachar Plus
+https://madplay.live/jiotv/app/live/804/null/index.m3u8
+#EXTINF:-1 tvg-id="383" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Samay_Rajasthan.png" group-title="News - SabbirIPTV",Samay Rajasthan
+https://madplay.live/jiotv/app/live/793/null/index.m3u8
+#EXTINF:-1 tvg-id="384" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Telugu.png" group-title="News - SabbirIPTV",Raj News Telugu
+https://madplay.live/jiotv/app/live/664/null/index.m3u8
+#EXTINF:-1 tvg-id="385" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/dw.png" group-title="News - SabbirIPTV",dw
+https://madplay.live/jiotv/app/live/496/null/index.m3u8
+#EXTINF:-1 tvg-id="386" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Loksabha_TV.png" group-title="News - SabbirIPTV",Sansad TV
+https://madplay.live/jiotv/app/live/522/null/index.m3u8
+#EXTINF:-1 tvg-id="387" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajyasabha.png" group-title="News - SabbirIPTV",Sansad TV HD
+https://madplay.live/jiotv/app/live/520/null/index.m3u8
+#EXTINF:-1 tvg-id="388" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_Monde.png" group-title="News - SabbirIPTV",TV5 Monde
+https://madplay.live/jiotv/app/live/885/null/index.m3u8
+#EXTINF:-1 tvg-id="389" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MK_News.png" group-title="News - SabbirIPTV",MKN
+https://madplay.live/jiotv/app/live/846/null/index.m3u8
+#EXTINF:-1 tvg-id="390" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jaihind_tv.png" group-title="News - SabbirIPTV",Jaihind tv
+https://madplay.live/jiotv/app/live/465/null/index.m3u8
+#EXTINF:-1 tvg-id="391" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jeevan_TV.png" group-title="News - SabbirIPTV",Jeevan TV
+https://madplay.live/jiotv/app/live/842/null/index.m3u8
+#EXTINF:-1 tvg-id="392" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bansal_News.png" group-title="News - SabbirIPTV",Bansal News
+https://madplay.live/jiotv/app/live/1179/null/index.m3u8
+#EXTINF:-1 tvg-id="393" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_Voice.png" group-title="News - SabbirIPTV",India Voice
+https://madplay.live/jiotv/app/live/788/null/index.m3u8
+#EXTINF:-1 tvg-id="394" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/GoodNews_Channel.png" group-title="News - SabbirIPTV",GoodNews Channel
+https://madplay.live/jiotv/app/live/907/null/index.m3u8
+#EXTINF:-1 tvg-id="395" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_India_24_X_7.png" group-title="News - SabbirIPTV",News India 24x7
+https://madplay.live/jiotv/app/live/850/null/index.m3u8
+#EXTINF:-1 tvg-id="396" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Living_India_News.png" group-title="News - SabbirIPTV",Living India News
+https://madplay.live/jiotv/app/live/831/null/index.m3u8
+#EXTINF:-1 tvg-id="397" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SMBC_TV.png" group-title="News - SabbirIPTV",SMBC TV
+https://madplay.live/jiotv/app/live/851/null/index.m3u8
+#EXTINF:-1 tvg-id="398" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sadhna_News_Plus.png" group-title="News - SabbirIPTV",Sadhna News Plus
+https://madplay.live/jiotv/app/live/519/null/index.m3u8
+#EXTINF:-1 tvg-id="399" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Channel_News_Asia_International.png" group-title="News - SabbirIPTV",Channel News Asia International
+https://madplay.live/jiotv/app/live/764/null/index.m3u8
+#EXTINF:-1 tvg-id="400" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/France_24.png" group-title="News - SabbirIPTV",France 24
+https://madplay.live/jiotv/app/live/838/null/index.m3u8
+#EXTINF:-1 tvg-id="401" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Malayalam.png" group-title="News - SabbirIPTV",Raj News Malayalam
+https://madplay.live/jiotv/app/live/650/null/index.m3u8
+#EXTINF:-1 tvg-id="402" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Euro_News.png" group-title="News - SabbirIPTV",Euro News
+https://madplay.live/jiotv/app/live/837/null/index.m3u8
+#EXTINF:-1 tvg-id="403" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swadesh_News.png" group-title="News - SabbirIPTV",Swadesh News
+https://madplay.live/jiotv/app/live/1185/null/index.m3u8
+#EXTINF:-1 tvg-id="404" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_English.png" group-title="News - SabbirIPTV",CVR English
+https://madplay.live/jiotv/app/live/787/null/index.m3u8
+#EXTINF:-1 tvg-id="405" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DNN.png" group-title="News - SabbirIPTV",DNN
+https://madplay.live/jiotv/app/live/958/null/index.m3u8
+#EXTINF:-1 tvg-id="406" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_24x7.png" group-title="News - SabbirIPTV",Raj NewsÂ 24x7
+https://madplay.live/jiotv/app/live/767/null/index.m3u8
+#EXTINF:-1 tvg-id="407" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Telugu.png" group-title="Kids - SabbirIPTV",Sony Yay Telugu
+https://madplay.live/jiotv/app/live/874/null/index.m3u8
+#EXTINF:-1 tvg-id="408" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Tamil.png" group-title="Kids - SabbirIPTV",Sony Yay Tamil
+https://madplay.live/jiotv/app/live/873/null/index.m3u8
+#EXTINF:-1 tvg-id="409" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" group-title="Kids - SabbirIPTV",Nickelodeon Jr.
+https://madplay.live/jiotv/app/live/548/null/index.m3u8
+#EXTINF:-1 tvg-id="410" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" group-title="Kids - SabbirIPTV",CN HD+ Tamil
+https://madplay.live/jiotv/app/live/1081/null/index.m3u8
+#EXTINF:-1 tvg-id="411" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kochu_TV.png" group-title="Kids - SabbirIPTV",Kochu TV
+https://madplay.live/jiotv/app/live/556/null/index.m3u8
+#EXTINF:-1 tvg-id="412" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png" group-title="Kids - SabbirIPTV",CN HD+ Telugu
+https://madplay.live/jiotv/app/live/1080/null/index.m3u8
+#EXTINF:-1 tvg-id="413" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_bharati.png" group-title="Infotainment - SabbirIPTV",DD bharati
+https://madplay.live/jiotv/app/live/580/null/index.m3u8
+#EXTINF:-1 tvg-id="414" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Care_World.png" group-title="Infotainment - SabbirIPTV",Care World
+https://madplay.live/jiotv/app/live/582/null/index.m3u8
+#EXTINF:-1 tvg-id="415" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Insight.png" group-title="Infotainment - SabbirIPTV",Insight HD
+https://madplay.live/jiotv/app/live/888/null/index.m3u8
+#EXTINF:-1 tvg-id="416" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Malayalam.png" group-title="Kids - SabbirIPTV",Nick Malayalam
+https://madplay.live/jiotv/app/live/1340/null/index.m3u8
+#EXTINF:-1 tvg-id="417" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Kids - SabbirIPTV",Nick Bangla
+https://madplay.live/jiotv/app/live/1341/null/index.m3u8
+#EXTINF:-1 tvg-id="418" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Marathi.png" group-title="Kids - SabbirIPTV",Nick Marathi
+https://madplay.live/jiotv/app/live/1342/null/index.m3u8
+#EXTINF:-1 tvg-id="419" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Malayalam.png" group-title="Kids - SabbirIPTV",Sonic Malayalam
+https://madplay.live/jiotv/app/live/1344/null/index.m3u8
+#EXTINF:-1 tvg-id="420" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png" group-title="Kids - SabbirIPTV",Sonic Bangla
+https://madplay.live/jiotv/app/live/1345/null/index.m3u8
+#EXTINF:-1 tvg-id="421" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Marathi.png" group-title="Kids - SabbirIPTV",Sonic Marathi
+https://madplay.live/jiotv/app/live/1346/null/index.m3u8
+#EXTINF:-1 tvg-id="422" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Digishala.png" group-title="Educational - SabbirIPTV",Digishala
+https://madplay.live/jiotv/app/live/1227/null/index.m3u8
+#EXTINF:-1 tvg-id="423" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Top_Tutor.png" group-title="Educational - SabbirIPTV",Top Tutor
+https://madplay.live/jiotv/app/live/1337/null/index.m3u8
+#EXTINF:-1 tvg-id="424" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gyan_Brikshya.png" group-title="Educational - SabbirIPTV",Gyan Brikshya
+https://madplay.live/jiotv/app/live/1428/null/index.m3u8
+#EXTINF:-1 tvg-id="425" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV_Teacher.png" group-title="Educational - SabbirIPTV",TV Teacher
+https://madplay.live/jiotv/app/live/1447/null/index.m3u8
+#EXTINF:-1 tvg-id="426" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Utkarsh_Primary.png" group-title="Educational - SabbirIPTV",Utkarsh Primary
+https://madplay.live/jiotv/app/live/1434/null/index.m3u8
+#EXTINF:-1 tvg-id="427" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Utkarsh_Middle.png" group-title="Educational - SabbirIPTV",Utkarsh HSBTE
+https://madplay.live/jiotv/app/live/1435/null/index.m3u8
+#EXTINF:-1 tvg-id="428" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Utkarsh_Secondary.png" group-title="Educational - SabbirIPTV",Utkarsh Secondary
+https://madplay.live/jiotv/app/live/1436/null/index.m3u8
+#EXTINF:-1 tvg-id="429" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Utkarsh_Higher.png" group-title="Educational - SabbirIPTV",Utkarsh Higher
+https://madplay.live/jiotv/app/live/1437/null/index.m3u8
+#EXTINF:-1 tvg-id="430" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Parmarth_TV.png" group-title="Devotional - SabbirIPTV",Parmarth TV
+https://madplay.live/jiotv/app/live/1449/null/index.m3u8
+#EXTINF:-1 tvg-id="431" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Lionsgate_Play.png" group-title="Entertainment - SabbirIPTV",Lionsgate Play
+https://madplay.live/jiotv/app/live/2327/null/index.m3u8
+#EXTINF:-1 tvg-id="432" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_2_HD.png" group-title="Sports - SabbirIPTV",Jio Cricket 2 HD
+https://madplay.live/jiotv/app/live/1161/null/index.m3u8
+#EXTINF:-1 tvg-id="433" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_3.png" group-title="Sports - SabbirIPTV",Jio Cricket 3 HD
+https://madplay.live/jiotv/app/live/1166/null/index.m3u8
+#EXTINF:-1 tvg-id="434" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati_Cinema.png" group-title="Movies - SabbirIPTV",Colors Gujarati Cinema
+https://madplay.live/jiotv/app/live/1324/null/index.m3u8
+#EXTINF:-1 tvg-id="435" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_SD.png" group-title="Entertainment - SabbirIPTV",Colors Marathi SD
+https://madplay.live/jiotv/app/live/1326/null/index.m3u8
+#EXTINF:-1 tvg-id="436" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_SD.png" group-title="Entertainment - SabbirIPTV",Colors SD
+https://madplay.live/jiotv/app/live/1368/null/index.m3u8
+#EXTINF:-1 tvg-id="437" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png" group-title="Entertainment - SabbirIPTV",Colors Bangla SD
+https://madplay.live/jiotv/app/live/1369/null/index.m3u8
+#EXTINF:-1 tvg-id="438" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_SD.png" group-title="Entertainment - SabbirIPTV",Colors Kannada SD
+https://madplay.live/jiotv/app/live/1370/null/index.m3u8
+#EXTINF:-1 tvg-id="439" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/VH1.png" group-title="Music - SabbirIPTV",VH1
+https://madplay.live/jiotv/app/live/1378/null/index.m3u8
+#EXTINF:-1 tvg-id="440" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_SD.png" group-title="Music - SabbirIPTV",MTV Beats SD
+https://madplay.live/jiotv/app/live/1400/null/index.m3u8
+#EXTINF:-1 tvg-id="441" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Birla_Brainiacs.png" group-title="Educational - SabbirIPTV",Birla Brainiacs
+https://madplay.live/jiotv/app/live/1521/null/index.m3u8
+#EXTINF:-1 tvg-id="442" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MI_TV.png" group-title="Sports - SabbirIPTV",MI TV
+https://madplay.live/jiotv/app/live/1529/null/index.m3u8
+#EXTINF:-1 tvg-id="443" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gyanvani_1.png" group-title="Educational - SabbirIPTV",Gyanvani 1
+https://madplay.live/jiotv/app/live/1531/null/index.m3u8
+#EXTINF:-1 tvg-id="444" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tute.png" group-title="Educational - SabbirIPTV",Tute
+https://madplay.live/jiotv/app/live/1542/null/index.m3u8
+#EXTINF:-1 tvg-id="445" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Punjab_School_TV.png" group-title="Educational - SabbirIPTV",Punjab School TV
+https://madplay.live/jiotv/app/live/1545/null/index.m3u8
+#EXTINF:-1 tvg-id="446" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Himshiksha_Elementary.png" group-title="Educational - SabbirIPTV",Himshiksha Elementary
+https://madplay.live/jiotv/app/live/1562/null/index.m3u8
+#EXTINF:-1 tvg-id="447" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Himshiksha_Higher.png" group-title="Educational - SabbirIPTV",Himshiksha Higher
+https://madplay.live/jiotv/app/live/1563/null/index.m3u8
+#EXTINF:-1 tvg-id="448" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Himshiksha_Vocational.png" group-title="Educational - SabbirIPTV",Himshiksha Vocational
+https://madplay.live/jiotv/app/live/1564/null/index.m3u8
+#EXTINF:-1 tvg-id="449" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_ARTS.png" group-title="Educational - SabbirIPTV",AP-BIE-ARTS
+https://madplay.live/jiotv/app/live/1565/null/index.m3u8
+#EXTINF:-1 tvg-id="450" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_SCIENCE.png" group-title="Educational - SabbirIPTV",AP-BIE-SCIENCE
+https://madplay.live/jiotv/app/live/1566/null/index.m3u8
+#EXTINF:-1 tvg-id="451" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_CIE_SIVE.png" group-title="Educational - SabbirIPTV",AP-CIE-SIVE
+https://madplay.live/jiotv/app/live/1567/null/index.m3u8
+#EXTINF:-1 tvg-id="452" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sanskritam.png" group-title="Educational - SabbirIPTV",Sanskrit
+https://madplay.live/jiotv/app/live/1590/null/index.m3u8
+#EXTINF:-1 tvg-id="453" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Lifology.png" group-title="Educational - SabbirIPTV",Lifology
+https://madplay.live/jiotv/app/live/1593/null/index.m3u8
+#EXTINF:-1 tvg-id="454" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/FTV_HD.png" group-title="Lifestyle - SabbirIPTV",FTV HD
+https://madplay.live/jiotv/app/live/1598/null/index.m3u8
+#EXTINF:-1 tvg-id="455" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/InWild_HD.png" group-title="Infotainment - SabbirIPTV",InWild HD
+https://madplay.live/jiotv/app/live/1599/null/index.m3u8
+#EXTINF:-1 tvg-id="456" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ZooMoo_HD.png" group-title="Kids - SabbirIPTV",ZooMoo HD
+https://madplay.live/jiotv/app/live/1601/null/index.m3u8
+#EXTINF:-1 tvg-id="457" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Smithsonian_HD.png" group-title="Infotainment - SabbirIPTV",Smithsonian HD
+https://madplay.live/jiotv/app/live/1602/null/index.m3u8
+#EXTINF:-1 tvg-id="458" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Manav_Dharam.png" group-title="Devotional - SabbirIPTV",Manav Dharam
+https://madplay.live/jiotv/app/live/1607/null/index.m3u8
+#EXTINF:-1 tvg-id="459" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Medha_Secondary.png" group-title="Educational - SabbirIPTV",Medha Secondary
+https://madplay.live/jiotv/app/live/1613/null/index.m3u8
+#EXTINF:-1 tvg-id="460" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Omnicuris.png" group-title="Educational - SabbirIPTV",Omnicuris
+https://madplay.live/jiotv/app/live/1614/null/index.m3u8
+#EXTINF:-1 tvg-id="461" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_Ahead.png" group-title="News - SabbirIPTV",India Ahead
+https://madplay.live/jiotv/app/live/1617/null/index.m3u8
+#EXTINF:-1 tvg-id="462" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Madha_TV.png" group-title="Devotional - SabbirIPTV",Madha TV
+https://madplay.live/jiotv/app/live/1655/null/index.m3u8
+#EXTINF:-1 tvg-id="463" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rongeen_TV.png" group-title="Kids - SabbirIPTV",Rongeen TV
+https://madplay.live/jiotv/app/live/1667/null/index.m3u8
+#EXTINF:-1 tvg-id="464" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gyanvani_2.png" group-title="Educational - SabbirIPTV",Gyanvani 2
+https://madplay.live/jiotv/app/live/1672/null/index.m3u8
+#EXTINF:-1 tvg-id="465" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTD_Chhattisgarrh.png" group-title="Educational - SabbirIPTV",PTD Chhattisgarrh
+https://madplay.live/jiotv/app/live/1673/null/index.m3u8
+#EXTINF:-1 tvg-id="466" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ESG.png" group-title="Sports - SabbirIPTV",ESG TV
+https://madplay.live/jiotv/app/live/1675/null/index.m3u8
+#EXTINF:-1 tvg-id="467" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Badakhabar.png" group-title="News - SabbirIPTV",Badakhabar
+https://madplay.live/jiotv/app/live/1692/null/index.m3u8
+#EXTINF:-1 tvg-id="468" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IND_24.png" group-title="News - SabbirIPTV",IND 24
+https://madplay.live/jiotv/app/live/1698/null/index.m3u8
+#EXTINF:-1 tvg-id="469" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Anaadi_TV.png" group-title="News - SabbirIPTV",Anaadi TV
+https://madplay.live/jiotv/app/live/1728/null/index.m3u8
+#EXTINF:-1 tvg-id="470" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ND24.png" group-title="News - SabbirIPTV",ND 24
+https://madplay.live/jiotv/app/live/1733/null/index.m3u8
+#EXTINF:-1 tvg-id="471" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Bangla.png" group-title="News - SabbirIPTV",TV9 Bangla
+https://madplay.live/jiotv/app/live/1735/null/index.m3u8
+#EXTINF:-1 tvg-id="472" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Luxe_Tv_HD.png" group-title="Lifestyle - SabbirIPTV",LUXE TV HD
+https://madplay.live/jiotv/app/live/1736/null/index.m3u8
+#EXTINF:-1 tvg-id="473" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mezzo_HD.png" group-title="Music - SabbirIPTV",Mezzo Live HD
+https://madplay.live/jiotv/app/live/1737/null/index.m3u8
+#EXTINF:-1 tvg-id="474" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hornbill_TV.png" group-title="News - SabbirIPTV",Hornbill TV
+https://madplay.live/jiotv/app/live/1743/null/index.m3u8
+#EXTINF:-1 tvg-id="475" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NK_TV.png" group-title="News - SabbirIPTV",NK TV Plus
+https://madplay.live/jiotv/app/live/1757/null/index.m3u8
+#EXTINF:-1 tvg-id="476" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aryan_TV_National.png" group-title="News - SabbirIPTV",Aryan TV National
+https://madplay.live/jiotv/app/live/1761/null/index.m3u8
+#EXTINF:-1 tvg-id="477" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Naaptol.png" group-title="Infotainment - SabbirIPTV",Naaptol
+https://madplay.live/jiotv/app/live/1768/null/index.m3u8
+#EXTINF:-1 tvg-id="478" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/LWA.png" group-title="Devotional - SabbirIPTV",LWA
+https://madplay.live/jiotv/app/live/1769/null/index.m3u8
+#EXTINF:-1 tvg-id="479" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Tripura.png" group-title="Educational - SabbirIPTV",Vande Tripura
+https://madplay.live/jiotv/app/live/1770/null/index.m3u8
+#EXTINF:-1 tvg-id="480" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Express_News.png" group-title="News - SabbirIPTV",Express News
+https://madplay.live/jiotv/app/live/1771/null/index.m3u8
+#EXTINF:-1 tvg-id="481" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png" group-title="Sports - SabbirIPTV",Sony Ten 4 HD Tamil
+https://madplay.live/jiotv/app/live/1772/null/index.m3u8
+#EXTINF:-1 tvg-id="482" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png" group-title="Sports - SabbirIPTV",Sony Ten 4 HD Telugu
+https://madplay.live/jiotv/app/live/1773/null/index.m3u8
+#EXTINF:-1 tvg-id="483" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Tamil.png" group-title="Sports - SabbirIPTV",Sony Ten 4 Tamil
+https://madplay.live/jiotv/app/live/1774/null/index.m3u8
+#EXTINF:-1 tvg-id="484" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bharat_News.png" group-title="News - SabbirIPTV",Bharat News TV
+https://madplay.live/jiotv/app/live/1777/null/index.m3u8
+#EXTINF:-1 tvg-id="485" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SamacharExpressTV.png" group-title="News - SabbirIPTV",Samachar Express TV
+https://madplay.live/jiotv/app/live/1786/null/index.m3u8
+#EXTINF:-1 tvg-id="486" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/VISVAS.png" group-title="Devotional - SabbirIPTV",VISVAS
+https://madplay.live/jiotv/app/live/1787/null/index.m3u8
+#EXTINF:-1 tvg-id="487" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Yeshuaa.png" group-title="Devotional - SabbirIPTV",Yeshuaa TV
+https://madplay.live/jiotv/app/live/1788/null/index.m3u8
+#EXTINF:-1 tvg-id="488" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dada_Bhagwan_Foundation_Gujarati.png" group-title="Devotional - SabbirIPTV",Dada Bhagwan Foundation Gujarati
+https://madplay.live/jiotv/app/live/1789/null/index.m3u8
+#EXTINF:-1 tvg-id="489" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/VRLive.png" group-title="News - SabbirIPTV",VR Live
+https://madplay.live/jiotv/app/live/1790/null/index.m3u8
+#EXTINF:-1 tvg-id="490" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/KPNews.png" group-title="News - SabbirIPTV",KP News 24x7
+https://madplay.live/jiotv/app/live/1791/null/index.m3u8
+#EXTINF:-1 tvg-id="491" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Satta_Express.png" group-title="News - SabbirIPTV",Sattaxpress News
+https://madplay.live/jiotv/app/live/1793/null/index.m3u8
+#EXTINF:-1 tvg-id="492" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mangalmaylive.png" group-title="Devotional - SabbirIPTV",Mangalmay Live
+https://madplay.live/jiotv/app/live/1794/null/index.m3u8
+#EXTINF:-1 tvg-id="493" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shri_Amarnath_Shrine_Board.png" group-title="JioDarshan - SabbirIPTV",Shri Amarnathji Shrine Board
+https://madplay.live/jiotv/app/live/1795/null/index.m3u8
+#EXTINF:-1 tvg-id="494" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Anand_Barta.png" group-title="News - SabbirIPTV",Ananda Barta
+https://madplay.live/jiotv/app/live/1796/null/index.m3u8
+#EXTINF:-1 tvg-id="495" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DA_News_Plus.png" group-title="News - SabbirIPTV",DA News Plus
+https://madplay.live/jiotv/app/live/1797/null/index.m3u8
+#EXTINF:-1 tvg-id="496" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pasand.png" group-title="Entertainment - SabbirIPTV",Pasand
+https://madplay.live/jiotv/app/live/1798/null/index.m3u8
+#EXTINF:-1 tvg-id="497" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Studio_Yuva_Alpha.png" group-title="Entertainment - SabbirIPTV",Studio Yuva Alpha
+https://madplay.live/jiotv/app/live/1799/null/index.m3u8
+#EXTINF:-1 tvg-id="498" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_World_India.png" group-title="News - SabbirIPTV",News World India
+https://madplay.live/jiotv/app/live/1802/null/index.m3u8
+#EXTINF:-1 tvg-id="499" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jan_Setu_TV.png" group-title="News - SabbirIPTV",Jan Setu News
+https://madplay.live/jiotv/app/live/1804/null/index.m3u8
+#EXTINF:-1 tvg-id="500" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_5.png" group-title="Sports - SabbirIPTV",Jio Football 5 HD
+https://madplay.live/jiotv/app/live/1813/null/index.m3u8
+#EXTINF:-1 tvg-id="501" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_6.png" group-title="Sports - SabbirIPTV",Jio Football 6 HD
+https://madplay.live/jiotv/app/live/1814/null/index.m3u8
+#EXTINF:-1 tvg-id="502" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DTV_Bharat.png" group-title="News - SabbirIPTV",DTV Bharat
+https://madplay.live/jiotv/app/live/1816/null/index.m3u8
+#EXTINF:-1 tvg-id="503" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NEWS_24_MPCG.png" group-title="News - SabbirIPTV",NEWS 24 MPCG
+https://madplay.live/jiotv/app/live/1817/null/index.m3u8
+#EXTINF:-1 tvg-id="504" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_7.png" group-title="Sports - SabbirIPTV",Jio Football 7 HD
+https://madplay.live/jiotv/app/live/1823/null/index.m3u8
+#EXTINF:-1 tvg-id="505" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_8.png" group-title="Sports - SabbirIPTV",Jio Football 8 HD
+https://madplay.live/jiotv/app/live/1824/null/index.m3u8
+#EXTINF:-1 tvg-id="506" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swarlasika.png" group-title="Educational - SabbirIPTV",Swaralasika Sangeetalaya
+https://madplay.live/jiotv/app/live/1826/null/index.m3u8
+#EXTINF:-1 tvg-id="507" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Green_Chillies_TV.png" group-title="Entertainment - SabbirIPTV",Green Chillies
+https://madplay.live/jiotv/app/live/1834/null/index.m3u8
+#EXTINF:-1 tvg-id="508" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Devam.png" group-title="Devotional - SabbirIPTV",Sadhna Bhakti
+https://madplay.live/jiotv/app/live/1838/null/index.m3u8
+#EXTINF:-1 tvg-id="509" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AAS_Vidyalaya_State_Boards.png" group-title="Educational - SabbirIPTV",AAS Vidyalaya State Boards
+https://madplay.live/jiotv/app/live/1848/null/index.m3u8
+#EXTINF:-1 tvg-id="510" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_At_Dubai_Expo.png" group-title="Infotainment - SabbirIPTV",India At Dubai Expo
+https://madplay.live/jiotv/app/live/1849/null/index.m3u8
+#EXTINF:-1 tvg-id="511" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ganga.png" group-title="News - SabbirIPTV",ABP Ganga
+https://madplay.live/jiotv/app/live/1205/null/index.m3u8
+#EXTINF:-1 tvg-id="512" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_TV.png" group-title="Entertainment - SabbirIPTV",Kalaignar TV
+https://madplay.live/jiotv/app/live/1209/null/index.m3u8
+#EXTINF:-1 tvg-id="513" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_Seithigal_.png" group-title="News - SabbirIPTV",Kalaignar Seithigal 
+https://madplay.live/jiotv/app/live/1210/null/index.m3u8
+#EXTINF:-1 tvg-id="514" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD_Tamil.png" group-title="Infotainment - SabbirIPTV",Animal Planet HD Tamil
+https://madplay.live/jiotv/app/live/1219/null/index.m3u8
+#EXTINF:-1 tvg-id="515" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" group-title="Kids - SabbirIPTV",Nick HD+
+https://madplay.live/jiotv/app/live/1226/null/index.m3u8
+#EXTINF:-1 tvg-id="516" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_Hindi_HD.png" group-title="Sports - SabbirIPTV",Jio Football Hindi HD
+https://madplay.live/jiotv/app/live/1234/null/index.m3u8
+#EXTINF:-1 tvg-id="517" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_Malayalam_HD.png" group-title="Sports - SabbirIPTV",Jio Football Malayalam HD
+https://madplay.live/jiotv/app/live/1236/null/index.m3u8
+#EXTINF:-1 tvg-id="518" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_Bangali_HD.png" group-title="Sports - SabbirIPTV",Jio Football Bengali HD
+https://madplay.live/jiotv/app/live/1239/null/index.m3u8
+#EXTINF:-1 tvg-id="519" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Telugu.png" group-title="Kids - SabbirIPTV",Sonic Telugu
+https://madplay.live/jiotv/app/live/1242/null/index.m3u8
+#EXTINF:-1 tvg-id="520" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Kannada.png" group-title="Kids - SabbirIPTV",Sonic Kannada
+https://madplay.live/jiotv/app/live/1243/null/index.m3u8
+#EXTINF:-1 tvg-id="521" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Kannada.png" group-title="Kids - SabbirIPTV",Nick Kannada
+https://madplay.live/jiotv/app/live/1244/null/index.m3u8
+#EXTINF:-1 tvg-id="522" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sakkat.png" group-title="Music - SabbirIPTV",Sakkat
+https://madplay.live/jiotv/app/live/1245/null/index.m3u8
+#EXTINF:-1 tvg-id="523" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bol_Hadippa.png" group-title="Music - SabbirIPTV",Bol Hadippa
+https://madplay.live/jiotv/app/live/1248/null/index.m3u8
+#EXTINF:-1 tvg-id="524" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kadak_Hits.png" group-title="Music - SabbirIPTV",Kadak Hits
+https://madplay.live/jiotv/app/live/1249/null/index.m3u8
+#EXTINF:-1 tvg-id="525" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TWENTY_FOUR_NEWS.png" group-title="News - SabbirIPTV",Twenty Four News
+https://madplay.live/jiotv/app/live/1250/null/index.m3u8
+#EXTINF:-1 tvg-id="526" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Bharatvarsh.png" group-title="News - SabbirIPTV",TV9 Bharatvarsh
+https://madplay.live/jiotv/app/live/1251/null/index.m3u8
+#EXTINF:-1 tvg-id="527" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TEHZEEB_TV.png" group-title="Infotainment - SabbirIPTV",Tehzeeb TV
+https://madplay.live/jiotv/app/live/1252/null/index.m3u8
+#EXTINF:-1 tvg-id="528" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kolkata_LIVE.png" group-title="News - SabbirIPTV",Kolkata Live
+https://madplay.live/jiotv/app/live/1253/null/index.m3u8
+#EXTINF:-1 tvg-id="529" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Telugu.png" group-title="Devotional - SabbirIPTV",Aastha Telugu
+https://madplay.live/jiotv/app/live/1254/null/index.m3u8
+#EXTINF:-1 tvg-id="530" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Tamil.png" group-title="Devotional - SabbirIPTV",Aastha Tamil
+https://madplay.live/jiotv/app/live/1255/null/index.m3u8
+#EXTINF:-1 tvg-id="531" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Kannada.png" group-title="Devotional - SabbirIPTV",Aastha Kannada
+https://madplay.live/jiotv/app/live/1256/null/index.m3u8
+#EXTINF:-1 tvg-id="532" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CTVN_AKD_Plus.png" group-title="News - SabbirIPTV",Ctvn Akd Plus
+https://madplay.live/jiotv/app/live/1260/null/index.m3u8
+#EXTINF:-1 tvg-id="533" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Calcutta_News.png" group-title="News - SabbirIPTV",Calcutta News
+https://madplay.live/jiotv/app/live/1261/null/index.m3u8
+#EXTINF:-1 tvg-id="534" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Total_Tv_Haryana.png" group-title="News - SabbirIPTV",Total Tv Haryana
+https://madplay.live/jiotv/app/live/1263/null/index.m3u8
+#EXTINF:-1 tvg-id="535" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kolkata_TV.png" group-title="News - SabbirIPTV",Kolkata TV
+https://madplay.live/jiotv/app/live/1264/null/index.m3u8
+#EXTINF:-1 tvg-id="536" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bflix_Movies.png" group-title="Movies - SabbirIPTV",Bflix Movies
+https://madplay.live/jiotv/app/live/1266/null/index.m3u8
+#EXTINF:-1 tvg-id="537" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/iLove.png" group-title="Music - SabbirIPTV",iLove
+https://madplay.live/jiotv/app/live/1267/null/index.m3u8
+#EXTINF:-1 tvg-id="538" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Studio_One.png" group-title="News - SabbirIPTV",Studio One
+https://madplay.live/jiotv/app/live/1274/null/index.m3u8
+#EXTINF:-1 tvg-id="539" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nireekshana_TV.png" group-title="Devotional - SabbirIPTV",Nireekshana TV
+https://madplay.live/jiotv/app/live/1277/null/index.m3u8
+#EXTINF:-1 tvg-id="540" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Prarthana_Bhawan.png" group-title="Devotional - SabbirIPTV",Prarthana Bhawan
+https://madplay.live/jiotv/app/live/1278/null/index.m3u8
+#EXTINF:-1 tvg-id="541" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_Grand.png" group-title="Entertainment - SabbirIPTV",Manoranjan Grand
+https://madplay.live/jiotv/app/live/1279/null/index.m3u8
+#EXTINF:-1 tvg-id="542" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_TV.png" group-title="Movies - SabbirIPTV",Manoranjan TV
+https://madplay.live/jiotv/app/live/1280/null/index.m3u8
+#EXTINF:-1 tvg-id="543" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_Movies.png" group-title="Movies - SabbirIPTV",Manoranjan Movies
+https://madplay.live/jiotv/app/live/1281/null/index.m3u8
+#EXTINF:-1 tvg-id="544" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Khusboo_TV.png" group-title="Movies - SabbirIPTV",Khushboo TV
+https://madplay.live/jiotv/app/live/1282/null/index.m3u8
+#EXTINF:-1 tvg-id="545" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Insync.png" group-title="Music - SabbirIPTV",Insync
+https://madplay.live/jiotv/app/live/1286/null/index.m3u8
+#EXTINF:-1 tvg-id="546" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ANB_News.png" group-title="News - SabbirIPTV",ANB News
+https://madplay.live/jiotv/app/live/1287/null/index.m3u8
+#EXTINF:-1 tvg-id="547" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Sanjha.png" group-title="News - SabbirIPTV",ABP Sanjha
+https://madplay.live/jiotv/app/live/1291/null/index.m3u8
+#EXTINF:-1 tvg-id="548" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Lokshahi_News.png" group-title="News - SabbirIPTV",Lokshahi News
+https://madplay.live/jiotv/app/live/1293/null/index.m3u8
+#EXTINF:-1 tvg-id="549" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports.png" group-title="Sports - SabbirIPTV",Eurosport
+https://madplay.live/jiotv/app/live/1294/null/index.m3u8
+#EXTINF:-1 tvg-id="550" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png" group-title="Movies - SabbirIPTV",B4U Kadak
+https://madplay.live/jiotv/app/live/1295/null/index.m3u8
+#EXTINF:-1 tvg-id="551" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png" group-title="Movies - SabbirIPTV",B4U Bhojpuri
+https://madplay.live/jiotv/app/live/1296/null/index.m3u8
+#EXTINF:-1 tvg-id="552" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Manjari_TV.png" group-title="Entertainment - SabbirIPTV",Manjari TV
+https://madplay.live/jiotv/app/live/1299/null/index.m3u8
+#EXTINF:-1 tvg-id="553" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/HHDL.png" group-title="Devotional - SabbirIPTV",HHDL
+https://madplay.live/jiotv/app/live/1315/null/index.m3u8
+#EXTINF:-1 tvg-id="554" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/VH1_HD.png" group-title="Music - SabbirIPTV",VH1 HD
+https://madplay.live/jiotv/app/live/1320/null/index.m3u8
+#EXTINF:-1 tvg-id="555" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" group-title="Entertainment - SabbirIPTV",Colors Infinity SD
+https://madplay.live/jiotv/app/live/1325/null/index.m3u8
+#EXTINF:-1 tvg-id="556" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_SD.png" group-title="Entertainment - SabbirIPTV",Comedy Central SD
+https://madplay.live/jiotv/app/live/1327/null/index.m3u8
+#EXTINF:-1 tvg-id="557" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/RT_TV.png" group-title="News - SabbirIPTV",RT TV
+https://madplay.live/jiotv/app/live/1338/null/index.m3u8
+#EXTINF:-1 tvg-id="558" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV.png" group-title="Entertainment - SabbirIPTV",Zee TV
+https://madplay.live/jiotv/app/live/1351/null/index.m3u8
+#EXTINF:-1 tvg-id="559" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png" group-title="Movies - SabbirIPTV",Zee Talkies HD 
+https://madplay.live/jiotv/app/live/1358/null/index.m3u8
+#EXTINF:-1 tvg-id="560" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png" group-title="Entertainment - SabbirIPTV",Zee Marathi HD
+https://madplay.live/jiotv/app/live/1360/null/index.m3u8
+#EXTINF:-1 tvg-id="561" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil.png" group-title="Entertainment - SabbirIPTV",Colors Tamil
+https://madplay.live/jiotv/app/live/1371/null/index.m3u8
+#EXTINF:-1 tvg-id="562" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Entertainment - SabbirIPTV",Sony Wah
+https://madplay.live/jiotv/app/live/1393/null/index.m3u8
+#EXTINF:-1 tvg-id="563" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="Entertainment - SabbirIPTV",Set SD
+https://madplay.live/jiotv/app/live/1396/null/index.m3u8
+#EXTINF:-1 tvg-id="564" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="News - SabbirIPTV",NHK World Japan
+https://madplay.live/jiotv/app/live/1405/null/index.m3u8
+#EXTINF:-1 tvg-id="565" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Reporter_TV.png" group-title="News - SabbirIPTV",Reporter TV
+https://madplay.live/jiotv/app/live/1408/null/index.m3u8
+#EXTINF:-1 tvg-id="566" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SongDew_TV.png" group-title="Music - SabbirIPTV",SongDew TV
+https://madplay.live/jiotv/app/live/1411/null/index.m3u8
+#EXTINF:-1 tvg-id="567" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/1Sports.png" group-title="Sports - SabbirIPTV",1Sports
+https://madplay.live/jiotv/app/live/1425/null/index.m3u8
+#EXTINF:-1 tvg-id="568" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Santvani.png" group-title="Devotional - SabbirIPTV",Santvani
+https://madplay.live/jiotv/app/live/1426/null/index.m3u8
+#EXTINF:-1 tvg-id="569" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nandighosha.png" group-title="News - SabbirIPTV",Nandighosha
+https://madplay.live/jiotv/app/live/1427/null/index.m3u8
+#EXTINF:-1 tvg-id="570" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_KIDS.png" group-title="Kids - SabbirIPTV",Jio KIDS
+https://madplay.live/jiotv/app/live/1430/null/index.m3u8
+#EXTINF:-1 tvg-id="571" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Velukkudi_Discourses.png" group-title="Devotional - SabbirIPTV",Velukkudi Discourses
+https://madplay.live/jiotv/app/live/1438/null/index.m3u8
+#EXTINF:-1 tvg-id="572" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" group-title="Movies - SabbirIPTV",Colors Cineplex Superhit
+https://madplay.live/jiotv/app/live/1450/null/index.m3u8
+#EXTINF:-1 tvg-id="573" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_MarathiBana.png" group-title="Movies - SabbirIPTV",Shemaroo MarathiBana
+https://madplay.live/jiotv/app/live/1452/null/index.m3u8
+#EXTINF:-1 tvg-id="574" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Balle_Balle_TV.png" group-title="Music - SabbirIPTV",Balle Balle TV
+https://madplay.live/jiotv/app/live/1453/null/index.m3u8
+#EXTINF:-1 tvg-id="575" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shiksha_TV.png" group-title="Devotional - SabbirIPTV",Shiksha TV
+https://madplay.live/jiotv/app/live/1454/null/index.m3u8
+#EXTINF:-1 tvg-id="576" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Janapriyam_News.png" group-title="Infotainment - SabbirIPTV",Janapriyam
+https://madplay.live/jiotv/app/live/1455/null/index.m3u8
+#EXTINF:-1 tvg-id="577" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Moti_Doongri.png" group-title="JioDarshan - SabbirIPTV",Shree Ganesh - Moti Doongri Jaipur
+https://madplay.live/jiotv/app/live/1463/null/index.m3u8
+#EXTINF:-1 tvg-id="578" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Daijiworld_TV_24X7.png" group-title="Infotainment - SabbirIPTV",Daijiworld TV 24x7
+https://madplay.live/jiotv/app/live/1464/null/index.m3u8
+#EXTINF:-1 tvg-id="579" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_TV18_SD.png" group-title="Infotainment - SabbirIPTV",History TV18 SD
+https://madplay.live/jiotv/app/live/1471/null/index.m3u8
+#EXTINF:-1 tvg-id="580" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Movies - SabbirIPTV",Colors Cineplex HD
+https://madplay.live/jiotv/app/live/1477/null/index.m3u8
+#EXTINF:-1 tvg-id="581" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_J.png" group-title="News - SabbirIPTV",News J
+https://madplay.live/jiotv/app/live/1515/null/index.m3u8
+#EXTINF:-1 tvg-id="582" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Network_10.png" group-title="News - SabbirIPTV",Network 10
+https://madplay.live/jiotv/app/live/1528/null/index.m3u8
+#EXTINF:-1 tvg-id="583" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_SD.png" group-title="Movies - SabbirIPTV",Sony Pix SD
+https://madplay.live/jiotv/app/live/1530/null/index.m3u8
+#EXTINF:-1 tvg-id="584" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/RadheKrishna_TV.png" group-title="Devotional - SabbirIPTV",RadheKrishna TV
+https://madplay.live/jiotv/app/live/1537/null/index.m3u8
+#EXTINF:-1 tvg-id="585" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Subharti.png" group-title="Devotional - SabbirIPTV",Subharti
+https://madplay.live/jiotv/app/live/1543/null/index.m3u8
+#EXTINF:-1 tvg-id="586" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_First.png" group-title="News - SabbirIPTV",News First
+https://madplay.live/jiotv/app/live/1555/null/index.m3u8
+#EXTINF:-1 tvg-id="587" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MY_ZEN_HD.png" group-title="Lifestyle - SabbirIPTV",MY ZEN HD
+https://madplay.live/jiotv/app/live/1596/null/index.m3u8
+#EXTINF:-1 tvg-id="588" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/HitsIndia_HD.png" group-title="Entertainment - SabbirIPTV",HITS HD
+https://madplay.live/jiotv/app/live/1603/null/index.m3u8
+#EXTINF:-1 tvg-id="589" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_Cinema.png" group-title="Movies - SabbirIPTV",Colors Kannada Cinema
+https://madplay.live/jiotv/app/live/1632/null/index.m3u8
+#EXTINF:-1 tvg-id="590" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sirikannada.png" group-title="Entertainment - SabbirIPTV",Siri Kannada
+https://madplay.live/jiotv/app/live/1634/null/index.m3u8
+#EXTINF:-1 tvg-id="591" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Movies - SabbirIPTV",Colors Bangla Cinema
+https://madplay.live/jiotv/app/live/1657/null/index.m3u8
+#EXTINF:-1 tvg-id="592" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Comedy.png" group-title="Entertainment - SabbirIPTV",Surya Comedy
+https://madplay.live/jiotv/app/live/1662/null/index.m3u8
+#EXTINF:-1 tvg-id="593" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Bangla.png" group-title="Entertainment - SabbirIPTV",Sun Bangla
+https://madplay.live/jiotv/app/live/1669/null/index.m3u8
+#EXTINF:-1 tvg-id="594" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_Gujarat.png" group-title="News - SabbirIPTV",India News Gujarat
+https://madplay.live/jiotv/app/live/1747/null/index.m3u8
+#EXTINF:-1 tvg-id="595" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Movies.png" group-title="Movies - SabbirIPTV",Surya Movies
+https://madplay.live/jiotv/app/live/1754/null/index.m3u8
+#EXTINF:-1 tvg-id="596" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="Movies - SabbirIPTV",Colors Cineplex Bollywood
+https://madplay.live/jiotv/app/live/1763/null/index.m3u8
+#EXTINF:-1 tvg-id="597" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Telugu.png" group-title="Sports - SabbirIPTV",Sony Ten 4 Telugu
+https://madplay.live/jiotv/app/live/1775/null/index.m3u8
+#EXTINF:-1 tvg-id="598" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hoopla_Kids_TV.png" group-title="Kids - SabbirIPTV",Hoopla Kidz TV
+https://madplay.live/jiotv/app/live/1780/null/index.m3u8
+#EXTINF:-1 tvg-id="599" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aakash_EduTV_NEET.png" group-title="Educational - SabbirIPTV",Aakash EduTV NEET
+https://madplay.live/jiotv/app/live/1827/null/index.m3u8
+#EXTINF:-1 tvg-id="600" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures.png" group-title="Movies - SabbirIPTV",And Pictures
+https://madplay.live/jiotv/app/live/1839/null/index.m3u8
+#EXTINF:-1 tvg-id="601" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Harpal_TV.png" group-title="Devotional - SabbirIPTV",Z10 TV
+https://madplay.live/jiotv/app/live/1847/null/index.m3u8
+#EXTINF:-1 tvg-id="602" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aakash_EduTV_JEE.png" group-title="Educational - SabbirIPTV",Aakash EduTV JEE
+https://madplay.live/jiotv/app/live/1851/null/index.m3u8
+#EXTINF:-1 tvg-id="603" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News11_Bharat.png" group-title="News - SabbirIPTV",News11 Bharat
+https://madplay.live/jiotv/app/live/1853/null/index.m3u8
+#EXTINF:-1 tvg-id="604" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/STV_Haryana_News.png" group-title="News - SabbirIPTV",STV Haryana News
+https://madplay.live/jiotv/app/live/1854/null/index.m3u8
+#EXTINF:-1 tvg-id="605" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NL_TV.png" group-title="News - SabbirIPTV",NL TV
+https://madplay.live/jiotv/app/live/1855/null/index.m3u8
+#EXTINF:-1 tvg-id="606" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Time_Assam.png" group-title="News - SabbirIPTV",Pratham Khabar 24x7
+https://madplay.live/jiotv/app/live/1856/null/index.m3u8
+#EXTINF:-1 tvg-id="607" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SVBC3.png" group-title="Devotional - SabbirIPTV",SVBC3
+https://madplay.live/jiotv/app/live/1858/null/index.m3u8
+#EXTINF:-1 tvg-id="608" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SVBC4.png" group-title="Devotional - SabbirIPTV",SVBC4
+https://madplay.live/jiotv/app/live/1859/null/index.m3u8
+#EXTINF:-1 tvg-id="609" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Punjab_Plus.png" group-title="Entertainment - SabbirIPTV",Punjab Plus
+https://madplay.live/jiotv/app/live/1868/null/index.m3u8
+#EXTINF:-1 tvg-id="610" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kenson_News.png" group-title="News - SabbirIPTV",Kenson News
+https://madplay.live/jiotv/app/live/1869/null/index.m3u8
+#EXTINF:-1 tvg-id="611" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/7X_Music.png" group-title="Music - SabbirIPTV",7X Music
+https://madplay.live/jiotv/app/live/1871/null/index.m3u8
+#EXTINF:-1 tvg-id="612" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dreamworks.png" group-title="Kids - SabbirIPTV",DreamWorks
+https://madplay.live/jiotv/app/live/1872/null/index.m3u8
+#EXTINF:-1 tvg-id="613" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/E_NBCU.png" group-title="Entertainment - SabbirIPTV",E!
+https://madplay.live/jiotv/app/live/1881/null/index.m3u8
+#EXTINF:-1 tvg-id="614" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Telugu.png" group-title="Kids - SabbirIPTV",Pogo Telugu
+https://madplay.live/jiotv/app/live/1883/null/index.m3u8
+#EXTINF:-1 tvg-id="615" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kripa_TV.png" group-title="Devotional - SabbirIPTV",Kripa TV
+https://madplay.live/jiotv/app/live/1885/null/index.m3u8
+#EXTINF:-1 tvg-id="616" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sansad_TV_RajyaSabha.png" group-title="News - SabbirIPTV",Sansad TV Rajya Sabha
+https://madplay.live/jiotv/app/live/1886/null/index.m3u8
+#EXTINF:-1 tvg-id="617" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jivan_TV.png" group-title="Devotional - SabbirIPTV",Jivan TV
+https://madplay.live/jiotv/app/live/1888/null/index.m3u8
+#EXTINF:-1 tvg-id="618" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports_1_HD.png" group-title="Sports - SabbirIPTV",Jio Sports 1 HD
+https://madplay.live/jiotv/app/live/1889/null/index.m3u8
+#EXTINF:-1 tvg-id="619" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports_2_HD.png" group-title="Sports - SabbirIPTV",Jio Sports 2 HD
+https://madplay.live/jiotv/app/live/1890/null/index.m3u8
+#EXTINF:-1 tvg-id="620" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tribe_TV.png" group-title="News - SabbirIPTV",Tribe TV
+https://madplay.live/jiotv/app/live/1891/null/index.m3u8
+#EXTINF:-1 tvg-id="621" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Padhega_Bharat.png" group-title="Educational - SabbirIPTV",Padhega Bharat
+https://madplay.live/jiotv/app/live/1894/null/index.m3u8
+#EXTINF:-1 tvg-id="622" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Today_24_News.png" group-title="News - SabbirIPTV",Today 24 News
+https://madplay.live/jiotv/app/live/1895/null/index.m3u8
+#EXTINF:-1 tvg-id="623" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Flash.png" group-title="News - SabbirIPTV",News Flash
+https://madplay.live/jiotv/app/live/1896/null/index.m3u8
+#EXTINF:-1 tvg-id="624" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pulse_24.png" group-title="News - SabbirIPTV",Pulse 24
+https://madplay.live/jiotv/app/live/1897/null/index.m3u8
+#EXTINF:-1 tvg-id="625" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/GBN24.png" group-title="News - SabbirIPTV",GBN24
+https://madplay.live/jiotv/app/live/1898/null/index.m3u8
+#EXTINF:-1 tvg-id="626" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/VK_News.png" group-title="News - SabbirIPTV",VK News
+https://madplay.live/jiotv/app/live/1899/null/index.m3u8
+#EXTINF:-1 tvg-id="627" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ENB.png" group-title="News - SabbirIPTV",Express News Bharat
+https://madplay.live/jiotv/app/live/1900/null/index.m3u8
+#EXTINF:-1 tvg-id="628" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Adhyatam_TV.png" group-title="Devotional - SabbirIPTV",Adhyatam TV
+https://madplay.live/jiotv/app/live/1901/null/index.m3u8
+#EXTINF:-1 tvg-id="629" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Ki_Baat.png" group-title="News - SabbirIPTV",Aaj Ki Baat Gujarati
+https://madplay.live/jiotv/app/live/1903/null/index.m3u8
+#EXTINF:-1 tvg-id="630" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Namasthe_TV.png" group-title="Devotional - SabbirIPTV",Namasthe TV
+https://madplay.live/jiotv/app/live/1919/null/index.m3u8
+#EXTINF:-1 tvg-id="631" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MH1_DilSe.png" group-title="Entertainment - SabbirIPTV",MH1 Dil Se
+https://madplay.live/jiotv/app/live/1925/null/index.m3u8
+#EXTINF:-1 tvg-id="632" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sanskriti_24x7.png" group-title="Devotional - SabbirIPTV",Sanskriti 24x7
+https://madplay.live/jiotv/app/live/1926/null/index.m3u8
+#EXTINF:-1 tvg-id="633" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shri_Trimbakeshwar_Devasthan.png" group-title="JioDarshan - SabbirIPTV",Shri Trimbakeshwar Devasthan Trust
+https://madplay.live/jiotv/app/live/1933/null/index.m3u8
+#EXTINF:-1 tvg-id="634" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Tamil_24x7.png" group-title="News - SabbirIPTV",News Tamil 24x7
+https://madplay.live/jiotv/app/live/1954/null/index.m3u8
+#EXTINF:-1 tvg-id="635" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Food_XP.png" group-title="Lifestyle - SabbirIPTV",Foodxp
+https://madplay.live/jiotv/app/live/1955/null/index.m3u8
+#EXTINF:-1 tvg-id="636" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sidharth_TV.png" group-title="Entertainment - SabbirIPTV",Sidharth TV
+https://madplay.live/jiotv/app/live/1956/null/index.m3u8
+#EXTINF:-1 tvg-id="637" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sidharth_Gold.png" group-title="Movies - SabbirIPTV",Sidharth Gold
+https://madplay.live/jiotv/app/live/1957/null/index.m3u8
+#EXTINF:-1 tvg-id="638" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sidharth_Bhakti.png" group-title="Devotional - SabbirIPTV",Sidharth Bhakti
+https://madplay.live/jiotv/app/live/1958/null/index.m3u8
+#EXTINF:-1 tvg-id="639" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Global_India.png" group-title="News - SabbirIPTV",Global India
+https://madplay.live/jiotv/app/live/1959/null/index.m3u8
+#EXTINF:-1 tvg-id="640" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhaarat_Today.png" group-title="News - SabbirIPTV",Bhaarat Today
+https://madplay.live/jiotv/app/live/1960/null/index.m3u8
+#EXTINF:-1 tvg-id="641" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_TV.png" group-title="Entertainment - SabbirIPTV",Shemaroo TV
+https://madplay.live/jiotv/app/live/1961/null/index.m3u8
+#EXTINF:-1 tvg-id="642" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Amaar_Bangla.png" group-title="News - SabbirIPTV",Amaar Bangla
+https://madplay.live/jiotv/app/live/1962/null/index.m3u8
+#EXTINF:-1 tvg-id="643" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/KVP_Bhaarat.png" group-title="News - SabbirIPTV",KVP Bhaarat
+https://madplay.live/jiotv/app/live/1963/null/index.m3u8
+#EXTINF:-1 tvg-id="644" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABC_News.png" group-title="News - SabbirIPTV",ABC News
+https://madplay.live/jiotv/app/live/1964/null/index.m3u8
+#EXTINF:-1 tvg-id="645" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/VNM_News.png" group-title="News - SabbirIPTV",VNM TV
+https://madplay.live/jiotv/app/live/1965/null/index.m3u8
+#EXTINF:-1 tvg-id="646" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Live_TV_Kerala.png" group-title="News - SabbirIPTV",Live TV Kerala
+https://madplay.live/jiotv/app/live/1966/null/index.m3u8
+#EXTINF:-1 tvg-id="647" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PMC_Hindi.png" group-title="Devotional - SabbirIPTV",PMC Hindi
+https://madplay.live/jiotv/app/live/1967/null/index.m3u8
+#EXTINF:-1 tvg-id="648" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PMC_Kannada.png" group-title="Devotional - SabbirIPTV",PMC Kannada
+https://madplay.live/jiotv/app/live/1968/null/index.m3u8
+#EXTINF:-1 tvg-id="649" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PMC_Tamizh.png" group-title="Devotional - SabbirIPTV",PMC Tamizh
+https://madplay.live/jiotv/app/live/1969/null/index.m3u8
+#EXTINF:-1 tvg-id="650" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports_3_HD.png" group-title="Sports - SabbirIPTV",Jio Sports 3 HD
+https://madplay.live/jiotv/app/live/1970/null/index.m3u8
+#EXTINF:-1 tvg-id="651" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports_4_HD.png" group-title="Sports - SabbirIPTV",Jio Sports 4 HD
+https://madplay.live/jiotv/app/live/1971/null/index.m3u8
+#EXTINF:-1 tvg-id="652" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Top_News_Marathi.png" group-title="News - SabbirIPTV",Top News Marathi
+https://madplay.live/jiotv/app/live/1972/null/index.m3u8
+#EXTINF:-1 tvg-id="653" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png" group-title="Entertainment - SabbirIPTV",ETV HD
+https://madplay.live/jiotv/app/live/1973/null/index.m3u8
+#EXTINF:-1 tvg-id="654" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gujarat_First_24x7.png" group-title="News - SabbirIPTV",Gujarat 1st 24x7
+https://madplay.live/jiotv/app/live/1974/null/index.m3u8
+#EXTINF:-1 tvg-id="655" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PMC_Telugu.png" group-title="Devotional - SabbirIPTV",PMC Telugu
+https://madplay.live/jiotv/app/live/1975/null/index.m3u8
+#EXTINF:-1 tvg-id="656" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Cbeebies.png" group-title="Kids - SabbirIPTV",BBC Cbeebies
+https://madplay.live/jiotv/app/live/1976/null/index.m3u8
+#EXTINF:-1 tvg-id="657" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png" group-title="Entertainment - SabbirIPTV",Zee Bangla HD
+https://madplay.live/jiotv/app/live/1977/null/index.m3u8
+#EXTINF:-1 tvg-id="658" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Sports - SabbirIPTV",Sports18 1 HD
+https://madplay.live/jiotv/app/live/1984/null/index.m3u8
+#EXTINF:-1 tvg-id="659" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_SD.png" group-title="Sports - SabbirIPTV",Sports18 1
+https://madplay.live/jiotv/app/live/1985/null/index.m3u8
+#EXTINF:-1 tvg-id="660" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_Khel.png" group-title="Sports - SabbirIPTV",Sports18 Khel
+https://madplay.live/jiotv/app/live/1998/null/index.m3u8
+#EXTINF:-1 tvg-id="661" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raftaar_Media.png" group-title="News - SabbirIPTV",Raftaar Media
+https://madplay.live/jiotv/app/live/1999/null/index.m3u8
+#EXTINF:-1 tvg-id="662" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/" group-title="Devotional - SabbirIPTV",Aadinath TV
+https://madplay.live/jiotv/app/live/2002/null/index.m3u8
+#EXTINF:-1 tvg-id="663" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Crypto_TV.0-TV" group-title="Educational - SabbirIPTV",3.0 TV
+https://madplay.live/jiotv/app/live/2003/null/index.m3u8
+#EXTINF:-1 tvg-id="664" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shekinah.png" group-title="News - SabbirIPTV",Shekinah TV
+https://madplay.live/jiotv/app/live/2004/null/index.m3u8
+#EXTINF:-1 tvg-id="665" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Virat_24.png" group-title="News - SabbirIPTV",Virat 24
+https://madplay.live/jiotv/app/live/2005/null/index.m3u8
+#EXTINF:-1 tvg-id="666" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sattva_TV.png" group-title="Devotional - SabbirIPTV",Sattva TV
+https://madplay.live/jiotv/app/live/2006/null/index.m3u8
+#EXTINF:-1 tvg-id="667" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BS9_News.png" group-title="News - SabbirIPTV",BS9 News
+https://madplay.live/jiotv/app/live/2007/null/index.m3u8
+#EXTINF:-1 tvg-id="668" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_21.png" group-title="News - SabbirIPTV",News 21
+https://madplay.live/jiotv/app/live/2008/null/index.m3u8
+#EXTINF:-1 tvg-id="669" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Nilach_akra.png" group-title="Entertainment - SabbirIPTV",Ekamra Nilach akra
+https://madplay.live/jiotv/app/live/2010/null/index.m3u8
+#EXTINF:-1 tvg-id="670" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Bharat_Odia.png" group-title="Infotainment - SabbirIPTV",Ekamra Bharat Odia
+https://madplay.live/jiotv/app/live/2011/null/index.m3u8
+#EXTINF:-1 tvg-id="671" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Paramatma.png" group-title="Devotional - SabbirIPTV",Paramatma
+https://madplay.live/jiotv/app/live/2012/null/index.m3u8
+#EXTINF:-1 tvg-id="672" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_S_News.png" group-title="News - SabbirIPTV",Ekamra S News
+https://madplay.live/jiotv/app/live/2013/null/index.m3u8
+#EXTINF:-1 tvg-id="673" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rajpath_TV.png" group-title="News - SabbirIPTV",Rajpath TV
+https://madplay.live/jiotv/app/live/2014/null/index.m3u8
+#EXTINF:-1 tvg-id="674" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Music.png" group-title="Music - SabbirIPTV",Ekamra Musiq
+https://madplay.live/jiotv/app/live/2015/null/index.m3u8
+#EXTINF:-1 tvg-id="675" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Cinema.png" group-title="Movies - SabbirIPTV",Ekamra Cinema
+https://madplay.live/jiotv/app/live/2016/null/index.m3u8
+#EXTINF:-1 tvg-id="676" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Munsif_TV.png" group-title="News - SabbirIPTV",Munsif TV
+https://madplay.live/jiotv/app/live/2017/null/index.m3u8
+#EXTINF:-1 tvg-id="677" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Samachar_Nation.png" group-title="News - SabbirIPTV",Samachar Nation
+https://madplay.live/jiotv/app/live/2018/null/index.m3u8
+#EXTINF:-1 tvg-id="678" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Global_Punjab.png" group-title="News - SabbirIPTV",Global Punjab
+https://madplay.live/jiotv/app/live/2019/null/index.m3u8
+#EXTINF:-1 tvg-id="679" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/KKD_News.png" group-title="News - SabbirIPTV",KKD News
+https://madplay.live/jiotv/app/live/2020/null/index.m3u8
+#EXTINF:-1 tvg-id="680" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/HNN24x7.png" group-title="News - SabbirIPTV",HNN 24x7
+https://madplay.live/jiotv/app/live/2021/null/index.m3u8
+#EXTINF:-1 tvg-id="681" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NB_News.png" group-title="News - SabbirIPTV",NB News
+https://madplay.live/jiotv/app/live/2022/null/index.m3u8
+#EXTINF:-1 tvg-id="682" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV.png" group-title="Entertainment - SabbirIPTV",And TV
+https://madplay.live/jiotv/app/live/2024/null/index.m3u8
+#EXTINF:-1 tvg-id="683" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raatdin_News_Network.png" group-title="News - SabbirIPTV",Raatdin News Network
+https://madplay.live/jiotv/app/live/2027/null/index.m3u8
+#EXTINF:-1 tvg-id="684" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sadvidya_TV.png" group-title="Devotional - SabbirIPTV",Sadvidya TV
+https://madplay.live/jiotv/app/live/2028/null/index.m3u8
+#EXTINF:-1 tvg-id="685" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaryaa_Bhakti.png" group-title="Devotional - SabbirIPTV",Aaryaa Bhakti
+https://madplay.live/jiotv/app/live/2029/null/index.m3u8
+#EXTINF:-1 tvg-id="686" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaryaa_News.png" group-title="News - SabbirIPTV",Aaryaa News
+https://madplay.live/jiotv/app/live/2030/null/index.m3u8
+#EXTINF:-1 tvg-id="687" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Fashion_India.png" group-title="Lifestyle - SabbirIPTV",Fashion India
+https://madplay.live/jiotv/app/live/2031/null/index.m3u8
+#EXTINF:-1 tvg-id="688" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NSDC_TV.png" group-title="Educational - SabbirIPTV",NSDC TV
+https://madplay.live/jiotv/app/live/2034/null/index.m3u8
+#EXTINF:-1 tvg-id="689" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Amritwani.png" group-title="Devotional - SabbirIPTV",Amritwani
+https://madplay.live/jiotv/app/live/2035/null/index.m3u8
+#EXTINF:-1 tvg-id="690" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dil_Se.png" group-title="Music - SabbirIPTV",Dil Se
+https://madplay.live/jiotv/app/live/2036/null/index.m3u8
+#EXTINF:-1 tvg-id="691" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pop_Pataka.png" group-title="Music - SabbirIPTV",Pop Pataka
+https://madplay.live/jiotv/app/live/2037/null/index.m3u8
+#EXTINF:-1 tvg-id="692" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dhamaal.png" group-title="Music - SabbirIPTV",Dhamaal
+https://madplay.live/jiotv/app/live/2038/null/index.m3u8
+#EXTINF:-1 tvg-id="693" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Adipolli.png" group-title="Music - SabbirIPTV",Adipolli
+https://madplay.live/jiotv/app/live/2039/null/index.m3u8
+#EXTINF:-1 tvg-id="694" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bollywood_Hungama.png" group-title="Entertainment - SabbirIPTV",Bollywood Hungama
+https://madplay.live/jiotv/app/live/2040/null/index.m3u8
+#EXTINF:-1 tvg-id="695" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhakti_Sagar.png" group-title="Devotional - SabbirIPTV",Bhakti Sagar
+https://madplay.live/jiotv/app/live/2041/null/index.m3u8
+#EXTINF:-1 tvg-id="696" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nazraana.png" group-title="Music - SabbirIPTV",Nazraana
+https://madplay.live/jiotv/app/live/2042/null/index.m3u8
+#EXTINF:-1 tvg-id="697" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Artist_Aloud.png" group-title="Music - SabbirIPTV",Artist Aloud
+https://madplay.live/jiotv/app/live/2043/null/index.m3u8
+#EXTINF:-1 tvg-id="698" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Auroville_TV.png" group-title="Devotional - SabbirIPTV",Auroville TV
+https://madplay.live/jiotv/app/live/2045/null/index.m3u8
+#EXTINF:-1 tvg-id="699" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/RS_Bharat.png" group-title="Music - SabbirIPTV",RS Bharat
+https://madplay.live/jiotv/app/live/2063/null/index.m3u8
+#EXTINF:-1 tvg-id="700" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Merchant_Records.png" group-title="Music - SabbirIPTV",Merchant Records
+https://madplay.live/jiotv/app/live/2064/null/index.m3u8
+#EXTINF:-1 tvg-id="701" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/The_Q_Comedistaan.png" group-title="Entertainment - SabbirIPTV",The Q Comedistaan
+https://madplay.live/jiotv/app/live/2066/null/index.m3u8
+#EXTINF:-1 tvg-id="702" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/The_Q_Marathi.png" group-title="Entertainment - SabbirIPTV",The Q Marathi
+https://madplay.live/jiotv/app/live/2071/null/index.m3u8
+#EXTINF:-1 tvg-id="703" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Prime_Media.png" group-title="News - SabbirIPTV",Prime Media Goa
+https://madplay.live/jiotv/app/live/2074/null/index.m3u8
+#EXTINF:-1 tvg-id="704" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gangaur.png" group-title="Entertainment - SabbirIPTV",Gangaur
+https://madplay.live/jiotv/app/live/2077/null/index.m3u8
+#EXTINF:-1 tvg-id="705" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_Umang.png" group-title="Entertainment - SabbirIPTV",Shemaroo Umang
+https://madplay.live/jiotv/app/live/2078/null/index.m3u8
+#EXTINF:-1 tvg-id="706" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bharat_24.png" group-title="News - SabbirIPTV",Bharat 24
+https://madplay.live/jiotv/app/live/2079/null/index.m3u8
+#EXTINF:-1 tvg-id="707" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Bartaman_24x7.png" group-title="News - SabbirIPTV",News Bartaman 24x7
+https://madplay.live/jiotv/app/live/2080/null/index.m3u8
+#EXTINF:-1 tvg-id="708" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV27_News.png" group-title="News - SabbirIPTV",TV27 News
+https://madplay.live/jiotv/app/live/2081/null/index.m3u8
+#EXTINF:-1 tvg-id="709" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/22Scope_News.png" group-title="News - SabbirIPTV",22Scope News
+https://madplay.live/jiotv/app/live/2082/null/index.m3u8
+#EXTINF:-1 tvg-id="710" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Prime_HD.png" group-title="Entertainment - SabbirIPTV",Jio Prime HD
+https://madplay.live/jiotv/app/live/2149/null/index.m3u8
+#EXTINF:-1 tvg-id="711" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India24x7.png" group-title="News - SabbirIPTV",India 24x7
+https://madplay.live/jiotv/app/live/2176/null/index.m3u8
+#EXTINF:-1 tvg-id="712" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Arya_Sandesh_Tv.png" group-title="Devotional - SabbirIPTV",Arya Sandesh TV
+https://madplay.live/jiotv/app/live/2177/null/index.m3u8
+#EXTINF:-1 tvg-id="713" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Q_GameX.png" group-title="Sports - SabbirIPTV",Q GameX
+https://madplay.live/jiotv/app/live/2183/null/index.m3u8
+#EXTINF:-1 tvg-id="714" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/U_Bangla.png" group-title="Infotainment - SabbirIPTV",U Bangla
+https://madplay.live/jiotv/app/live/2184/null/index.m3u8
+#EXTINF:-1 tvg-id="715" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swatantra_News.png" group-title="News - SabbirIPTV",Swatantra News
+https://madplay.live/jiotv/app/live/2187/null/index.m3u8
+#EXTINF:-1 tvg-id="716" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Globe_TV.png" group-title="News - SabbirIPTV",Globe TV
+https://madplay.live/jiotv/app/live/2188/null/index.m3u8
+#EXTINF:-1 tvg-id="717" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaryaa_Cinema.png" group-title="Movies - SabbirIPTV",Aaryaa Cinema
+https://madplay.live/jiotv/app/live/2189/null/index.m3u8
+#EXTINF:-1 tvg-id="718" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Atrangii_TV.png" group-title="Entertainment - SabbirIPTV",Atrangii TV
+https://madplay.live/jiotv/app/live/2191/null/index.m3u8
+#EXTINF:-1 tvg-id="719" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gurukul_Rajkot.png" group-title="Devotional - SabbirIPTV",Gurukul
+https://madplay.live/jiotv/app/live/2192/null/index.m3u8
+#EXTINF:-1 tvg-id="720" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Guruvayur_Devaswom.png" group-title="JioDarshan - SabbirIPTV",Guruvayur Devaswom
+https://madplay.live/jiotv/app/live/2205/null/index.m3u8
+#EXTINF:-1 tvg-id="721" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_Punjab.png" group-title="News - SabbirIPTV",India News Punjab
+https://madplay.live/jiotv/app/live/2224/null/index.m3u8
+#EXTINF:-1 tvg-id="722" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV24.png" group-title="News - SabbirIPTV",TV24
+https://madplay.live/jiotv/app/live/2225/null/index.m3u8
+#EXTINF:-1 tvg-id="723" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jatra_Ekamra.png" group-title="Entertainment - SabbirIPTV",Jatra Ekamra
+https://madplay.live/jiotv/app/live/2227/null/index.m3u8
+#EXTINF:-1 tvg-id="724" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Samay_Kolkata.png" group-title="News - SabbirIPTV",Samay Kolkata
+https://madplay.live/jiotv/app/live/2228/null/index.m3u8
+#EXTINF:-1 tvg-id="725" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhojpuri_Junction.png" group-title="Music - SabbirIPTV",Bhojpuri Junction
+https://madplay.live/jiotv/app/live/2229/null/index.m3u8
+#EXTINF:-1 tvg-id="726" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Specials_HD.png" group-title="Music - SabbirIPTV",Jio Specials HD
+https://madplay.live/jiotv/app/live/2230/null/index.m3u8
+#EXTINF:-1 tvg-id="727" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/No1_Yari_Jam.png" group-title="Music - SabbirIPTV",No 1 Yaari Jam
+https://madplay.live/jiotv/app/live/2232/null/index.m3u8
+#EXTINF:-1 tvg-id="728" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News80.png" group-title="News - SabbirIPTV",News 80
+https://madplay.live/jiotv/app/live/2233/null/index.m3u8
+#EXTINF:-1 tvg-id="729" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Desi_Music_Station.png" group-title="Music - SabbirIPTV",Desi Music Station
+https://madplay.live/jiotv/app/live/2252/null/index.m3u8
+#EXTINF:-1 tvg-id="730" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nakshatra_Digital_TV.png" group-title="Entertainment - SabbirIPTV",Nakshatra Digital TV
+https://madplay.live/jiotv/app/live/2253/null/index.m3u8
+#EXTINF:-1 tvg-id="731" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Media9.png" group-title="News - SabbirIPTV",Media9
+https://madplay.live/jiotv/app/live/2254/null/index.m3u8
+#EXTINF:-1 tvg-id="732" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/RRN_News.png" group-title="News - SabbirIPTV",RRN News
+https://madplay.live/jiotv/app/live/2255/null/index.m3u8
+#EXTINF:-1 tvg-id="733" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Thirai.png" group-title="Movies - SabbirIPTV",Zee Thirai
+https://madplay.live/jiotv/app/live/2256/null/index.m3u8
+#EXTINF:-1 tvg-id="734" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/POPxo.png" group-title="Infotainment - SabbirIPTV",POPxo
+https://madplay.live/jiotv/app/live/2257/null/index.m3u8
+#EXTINF:-1 tvg-id="735" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animax.png" group-title="Entertainment - SabbirIPTV",Animax
+https://madplay.live/jiotv/app/live/2258/null/index.m3u8
+#EXTINF:-1 tvg-id="736" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Divyalok_TV.png" group-title="Devotional - SabbirIPTV",Divyalok TV
+https://madplay.live/jiotv/app/live/2322/null/index.m3u8
+#EXTINF:-1 tvg-id="737" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TTN24.png" group-title="News - SabbirIPTV",TTN24
+https://madplay.live/jiotv/app/live/2323/null/index.m3u8
+#EXTINF:-1 tvg-id="738" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Scoowhoop.png" group-title="Entertainment - SabbirIPTV",ScoopWhoop
+https://madplay.live/jiotv/app/live/2324/null/index.m3u8
+#EXTINF:-1 tvg-id="739" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Punjabi_Melodies.png" group-title="Music - SabbirIPTV",Punjabi Melodies
+https://madplay.live/jiotv/app/live/2325/null/index.m3u8
+#EXTINF:-1 tvg-id="740" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Firstpost.png" group-title="News - SabbirIPTV",Firstpost
+https://madplay.live/jiotv/app/live/2326/null/index.m3u8
+#EXTINF:-1 tvg-id="741" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CyberPeace_TV.png" group-title="Educational - SabbirIPTV",CyberPeace TV
+https://madplay.live/jiotv/app/live/2328/null/index.m3u8
+#EXTINF:-1 tvg-id="742" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tom_TV.png" group-title="Infotainment - SabbirIPTV",Tom TV
+https://madplay.live/jiotv/app/live/2349/null/index.m3u8
+#EXTINF:-1 tvg-id="743" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SRS_Bhakti_TV.png" group-title="Devotional - SabbirIPTV",SRS Bhakti TV
+https://madplay.live/jiotv/app/live/2351/null/index.m3u8
+#EXTINF:-1 tvg-id="744" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Narikaa.png" group-title="Educational - SabbirIPTV",Narikaa
+https://madplay.live/jiotv/app/live/2352/null/index.m3u8
+#EXTINF:-1 tvg-id="745" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bharat_Express.png" group-title="News - SabbirIPTV",Bharat Express
+https://madplay.live/jiotv/app/live/2353/null/index.m3u8
+#EXTINF:-1 tvg-id="746" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Friends_TV.png" group-title="Entertainment - SabbirIPTV",Friends TV
+https://madplay.live/jiotv/app/live/2354/null/index.m3u8
+#EXTINF:-1 tvg-id="747" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/One_Paschima.png" group-title="News - SabbirIPTV",One Paschima
+https://madplay.live/jiotv/app/live/2355/null/index.m3u8
+#EXTINF:-1 tvg-id="748" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sadhguru_Television_SD.png" group-title="Devotional - SabbirIPTV",Sadhguru Television SD
+https://madplay.live/jiotv/app/live/2388/null/index.m3u8
+#EXTINF:-1 tvg-id="749" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Bharat.png" group-title="News - SabbirIPTV",Vande Bharat News
+https://madplay.live/jiotv/app/live/2423/null/index.m3u8
+#EXTINF:-1 tvg-id="750" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Marathi.png" group-title="Entertainment - SabbirIPTV",Sun Marathi
+https://madplay.live/jiotv/app/live/2424/null/index.m3u8
