@@ -1,0 +1,137 @@
+
+28
+#EXTINF:-1 tvg-id="ts235" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/5326/1615326-h-e4eb4b6a8861",Hotstar Hin2(480p) 
+29
+https://donelfantastic.github.io/live/skysportsNz2.m3u8
+30
+  
+31
+  
+32
+  
+33
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+34
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+35
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+36
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
+37
+#EXTINF:-1 tvg-id="AstroCricket" tvg-name="Astro Cricket HD" group-title="Sports BJTECH" group-logo="" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/5326/1615326-h-e4eb4b6a8861",Eng-FHD(ASTRO)
+38
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd  
+39
+  
+40
+#EXTINF:-1 group-title="SPORTS BJTECH", tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/5326/1615326-h-e4eb4b6a8861",ENG(WILLOW)
+41
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+42
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"O4jyz/Ov/vILJlyEC6/AzA", "kid":"ZlPAXkL8T6yPSdfL+ZSY/g" } ],"type":"temporary" } 
+43
+https://9dc1.short.gy/Willow_cricket.mpd
+44
+  
+45
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+46
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IB6YV7SFkO9zKR418YKmBA", "kid":"BjQb891jXmylxxGI0CEDcw" } ], "type":"temporary" }
+47
+#EXTINF:-1 tvg-id="ts78" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/5326/1615326-h-e4eb4b6a8861",Star Sports 1 HD
+48
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd
+49
+ 
+50
+  
+51
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+52
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=235&key
+53
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+54
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fo3kX5ipy773WhdVdOVzrw", "kid":"vF6pUmmFU9qrqFeHAB1gkw" } ], "type":"temporary" }
+55
+#EXTINF:-1 tvg-id="ts235" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/5321/1615321-h-63a0877fea71",Star Sports 2 HD
+56
+https://8g7o.short.gy/Star_Sports2HD.mpd
+57
+​
+58
+​
+59
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+60
+#KODIPROP:inputstream.adaptive.license_key=
+61
+#EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/5321/1615321-h-63a0877fea71",Cricklife Max2
+62
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/z.m3u8
+63
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+64
+https://webudit.vipboxtv.stream/lb/premium282/index.m3u8
+65
+  
+66
+  
+67
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+68
+#KODIPROP:inputstream.adaptive.license_key=
+69
+#EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/5321/1615321-h-63a0877fea71",WILLOW EXTRA
+70
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/z.m3u8
+71
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+72
+https://webudit.vipboxtv.stream/lb/premium598/index.m3u8
+73
+  
+74
+   
+75
+ 
+76
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WC LIVE" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/5321/1615321-h-63a0877fea71" group-title="WC LIVE",Tam(Hotstar)
+77
+http://xtv.ooo:8080/live/4444660/4444660/167574.ts
+78
+​
+79
+  
+80
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WC LIVE" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/5321/1615321-h-63a0877fea71" group-title="WC LIVE",Tel(Hotstar)
+81
+https://copytiger.github.io/Join_Telegram~BDS5G.m3u8
+82
+​
+83
+  
+84
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WC LIVE" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/5321/1615321-h-63a0877fea71" group-title="WC LIVE",Willow Extra
+85
+https://copytiger.github.io/Join_Telegram~BDS5G.m3u8
+86
+ 
+87
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+88
+#KODIPROP:inputstream.adaptive.license_key=
+89
+#EXTINF:-1 tvg-id="ts235" group-title="Sports- Tataplay BJTECHKNOWLEDGE" tvg-logo="https://images.fancode.com/eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyMy8xMC9XQkJMX01lbGJvdXJuZS1SZW5lZ2FkZXNfQnJpc2JhbmUtSGVhdC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjo5MzAsImhlaWdodCI6NDE0fX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",BBL-W
+90
+https://dai.fancode.com/primary/85195_english_hls_5755ta-di/index.m3u8
+91
+  
+92
+  
+93
+​
+94
+  
+95
+​
